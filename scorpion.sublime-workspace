@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"nav",
+				"nav-sticky"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"check",
+				"checkOverlap"
+			],
+			[
+				"game",
+				"gameMessage"
+			],
+			[
+				"rand",
+				"randDARTNumber"
+			],
+			[
+				"b",
+				"buttonClicked1"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"metalEdge_u",
+				"metalEdge_usual-suspects_inner"
+			],
+			[
+				"p",
+				"proxima-nova-condensed"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.less",
+			"settings":
+			{
+				"buffer_size": 25212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "usgov_intro.html",
+			"settings":
+			{
+				"buffer_size": 22919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/menu_elastic.css",
+			"settings":
+			{
+				"buffer_size": 3211,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/main.js",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/main.less",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/menu/min/main-min.js",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/styles.less",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/css/owl.carousel.css",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/scrollreveal.min.js",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/css/menu_elastic.css",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/slider/main.js",
+		"/Users/briangarcia/Downloads/animated-svg-image-slider/img/cd-icon-arrows.svg",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/jquery.js",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/js/menu/main.js",
+		"/Users/briangarcia/Downloads/OffCanvasMenuEffects/elastic.html",
+		"/Users/briangarcia/Desktop/Clients/scorpion/html/css/main.css",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/homepage.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/single.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/template-parts/content.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/template-parts/content-single.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/index.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/page-press.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/sidebar.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/template-parts/content-page.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/footer.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/archive.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/page.php",
+		"/Applications/MAMP/htdocs/beehex/wp-content/themes/twentysixteen/comments.php",
+		"/Users/briangarcia/Desktop/Clients/beehex/Package-HTML/HTML/rs-demo-premium-agency.html",
+		"/Users/briangarcia/Desktop/Clients/beehex/Package-HTML/HTML/portfolio-1-alt-left-sidebar.html",
+		"/Users/briangarcia/Desktop/Clients/beehex/Package-HTML/HTML/contact-3.html",
+		"/Users/briangarcia/Desktop/beehive/style-rtl.css",
+		"/Users/briangarcia/Desktop/sympletrack/sympletrack/sympletrack.html",
+		"/Users/briangarcia/Desktop/sympletrack/sympletrack.html",
+		"/Users/briangarcia/Desktop/sympletrack/js/plugins.js",
+		"/Users/briangarcia/Desktop/sympletrack/style.less",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/HTML/index-corporate-4.html",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/HTML/index-corporate.html",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/HTML/landing-2.html",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/HTML/index-corporate-3.html",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/HTML/index-corporate-2.html",
+		"/Users/briangarcia/Desktop/sympletrack/less/sliders.less",
+		"/Users/briangarcia/Desktop/sympletrack/less/header.less",
+		"/Users/briangarcia/Desktop/sympletrack/less/shortcodes/headings.less",
+		"/Users/briangarcia/Desktop/sympletrack/less/variables.less",
+		"/Users/briangarcia/Desktop/sympletrack/less/shortcodes/buttons.less",
+		"/Users/briangarcia/Desktop/sympletrack/less/content.less",
+		"/Users/briangarcia/Desktop/sympletrack/Package-HTML/Documentation/style.css",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/footer.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/templates/project.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/config/config.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/archive-tags.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/archive-dates.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/archive-categories.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/header.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/controllers/posts.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/controllers/post.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/post-footer.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/blog-hero.php",
+		"/Applications/MAMP/htdocs/bnbshield/content/4-posts/posts.en.txt",
+		"/Applications/MAMP/htdocs/bnbshield/assets/js/scrollReveal.min.js",
+		"/Applications/MAMP/htdocs/bnbshield/site/templates/post.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/snippets/form.php",
+		"/Applications/MAMP/htdocs/bnbshield/content/home/home.en.txt",
+		"/Applications/MAMP/htdocs/bnbshield/site/controllers/home.php",
+		"/Applications/MAMP/htdocs/bnbshield/site/controllers/form.php",
+		"/Applications/MAMP/htdocs/bnbshield/less/main.less",
+		"/Applications/MAMP/htdocs/bnbshield/content/home/landscape.txt",
+		"/Applications/MAMP/htdocs/bnbshield/site/templates/home.php",
+		"/Applications/MAMP/htdocs/bnbshield/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/bnbshield/less/main.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/bnbshield/index.html",
+		"/Users/briangarcia/Desktop/Templates/themeforest-9814582-dropout-agency-freelancer-portfolio-template/dropout/demo-12/index.html",
+		"/Users/briangarcia/Desktop/Templates/themeforest-9814582-dropout-agency-freelancer-portfolio-template/dropout/demo-10/index.html",
+		"/Users/briangarcia/Downloads/(SOS41) Best Answer on Discussions Forum 1.0.1 3/Best Answer on Discussions Forum.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/jordan/notability/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/jordan/notability/js/scrollReveal.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/jordan/notability/js/jquery.stellar.min.js",
+		"/Users/briangarcia/Downloads/accesslog_chasse-sous-marine.forumflash.com_11_24_2015",
+		"/Applications/XAMPP/xamppfiles/htdocs/game/src/gameover.js",
+		"/Users/briangarcia/Desktop/topics.html",
+		"/Users/briangarcia/Downloads/acme/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/phaser/resources/tutorials/02 Making your first game/part9.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/phaser/resources/tutorials/02 Making your first game/part2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/phaser/resources/tutorials/02 Making your first game/part1.html",
+		"/Users/briangarcia/Desktop/part9.html",
+		"/Users/briangarcia/Documents/bassresources",
+		"/Users/briangarcia/Downloads/bigdump.php",
+		"/Users/briangarcia/Downloads/briangar_ips4.sql",
+		"/Users/briangarcia/Library/Caches/Cleanup At Startup/Transmit/A01E0198-DF0B-4897-A19D-C780EAA054EC/bigdump.php",
+		"/Users/briangarcia/Downloads/gmay_forum (1).sql",
+		"/Users/briangarcia/Desktop/nhl.html",
+		"/Users/briangarcia/Desktop/nycda/week4/day2/index.html",
+		"/Users/briangarcia/Desktop/FileZilla.xml",
+		"/Users/briangarcia/Desktop/nycda/week4/day1/index.html",
+		"/Users/briangarcia/Downloads/lesson3/sass/main.scss",
+		"/Users/briangarcia/Downloads/lesson3/index.html",
+		"/Users/briangarcia/Desktop/lesson3/stylesheets/main.scss",
+		"/Users/briangarcia/Desktop/lesson3/index.html",
+		"/Users/briangarcia/Desktop/briangarcia-assignment1.js",
+		"/Users/briangarcia/repos/villatalk-com/applications/core/modules/front/contact/contact.php",
+		"/Users/briangarcia/repos/villatalk-com/constants.php",
+		"/Users/briangarcia/Downloads/createAdmin.php",
+		"/private/var/folders/7w/nn11nz2j5fs7jt0lsnzb44k40000gn/T/fz3temp-1/latest_sql.cgi",
+		"/Users/briangarcia/Downloads/Furore-fontfacekit/web fonts/furore_regular_macroman/stylesheet.css",
+		"/Users/briangarcia/Desktop/new.txt",
+		"/Users/briangarcia/Desktop/old.txt",
+		"/Users/briangarcia/Downloads/ips_618ef/applications/core/modules/setup/upgrade/license.php",
+		"/private/var/folders/7w/nn11nz2j5fs7jt0lsnzb44k40000gn/T/fz3temp-1/ips.remotecomments.js",
+		"/private/var/folders/7w/nn11nz2j5fs7jt0lsnzb44k40000gn/T/fz3temp-1/articleComments.css",
+		"/Users/briangarcia/repos/metaledge/2/css/core/front/custom/releases.css",
+		"/Users/briangarcia/repos/metaledge/2/css/core/front/custom/custom.css",
+		"/Users/briangarcia/repos/metaledge/2/css/core/front/custom/cms.css",
+		"/Users/briangarcia/repos/metaledge/cms/database/display_in_the_pit/record.phtml",
+		"/Users/briangarcia/repos/metaledge/cms/database/releases_display/record.phtml",
+		"/Users/briangarcia/repos/metaledge/cms/database/display_album_retro/record.phtml",
+		"/Users/briangarcia/repos/metaledge/cms/database/display/record.phtml",
+		"/Users/briangarcia/repos/metaledge/cms/block/RecordFeed/home_featured_article.phtml",
+		"/Users/briangarcia/repos/metaledge/cms/block/latestTopics/current_chatter.phtml",
+		"/Users/briangarcia/repos/metaledge/2/html/core/front/global/globalTemplate.phtml",
+		"/Users/briangarcia/repos/metaledge/2/html/core/front/global/navBar.phtml",
+		"/Users/briangarcia/Desktop/metaledge.invisionpower-staging.com-Apr-2015",
+		"/Users/briangarcia/repos/metaledge/1/html/core/global/global/includeCSS.phtml",
+		"/Users/briangarcia/repos/metaledge/sftp-config.json",
+		"/Users/briangarcia/repos/metaledge/2/html/core/global/global/includeCSS.phtml",
+		"/Users/briangarcia/repos/metaledge/.gitignore",
+		"/private/var/folders/7w/nn11nz2j5fs7jt0lsnzb44k40000gn/T/fz3temp-1/latest.cgi",
+		"/Users/briangarcia/repos/metaledge/2/css/core/global/framework/lightbox.css",
+		"/Users/briangarcia/repos/metaledge/config",
+		"/Users/briangarcia/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/metaledge",
+		"/Users/briangarcia/repos/metaledge/2/html/core/global/global/includeJS.phtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/game",
+			"/Users/briangarcia/Downloads/ips_618ef",
+			"/Users/briangarcia/repos/metaledge",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".morph-shape",
+			".cd-hero-slider .cd-full-width",
+			"home",
+			"ticker",
+			"benefits",
+			".benef",
+			"usgov",
+			"header {",
+			"video",
+			"benefit",
+			"Award",
+			"testimon",
+			".cd-hero-slider .cd-full-width",
+			".cd-hero-slider p",
+			"Who we",
+			"send",
+			":before",
+			"cd-hero",
+			"walter",
+			"benefits",
+			".owl-carousel",
+			"color",
+			"img/",
+			"img",
+			"removeClassPrefix",
+			"select",
+			".cd-slider-nav li",
+			".cd-slider-nav",
+			".cd-slider-nav li",
+			".cd-slider-nav {",
+			".cd-slider-nav",
+			"as-seen",
+			"560",
+			"robot-",
+			"menu-button",
+			".cd-slider-nav a",
+			"important",
+			".cd-hero-slider",
+			"data",
+			"?php if( fun",
+			"img",
+			"logo",
+			"cd-full-width {",
+			".menu-wr",
+			".cd-slider-nav a {",
+			".cd-slider-nav a",
+			"B1E0FF",
+			".cd-hero-slider {",
+			".cd-hero-slider",
+			".cd-hero-slider h2",
+			".cd-hero-slider .cd-full-width",
+			".cd-hero-slider .cd-full-width, .cd-hero-slider .cd-half-width",
+			".cd-hero-slider {",
+			".cd-hero-slider",
+			".cd-hero-slider p",
+			".cd-hero-slider h2",
+			".cd-hero-slider h2, .cd-hero-slider p",
+			".cd-slider-nav a",
+			".cd-hero-slider",
+			".cd-hero-slider .cd-full-width,",
+			".cd-hero-slider",
+			"373a47",
+			".cd-hero-slider",
+			"687882",
+			"2c3e50",
+			"2980B9",
+			"2B3237",
+			"2C343B",
+			"495861",
+			".menu-wrap",
+			"<?php bloginfo('template_directory'); ?>",
+			"<?php ",
+			"right",
+			"primar",
+			"screen-reader-text",
+			"navigation post-navigation",
+			".comments-title",
+			".entry-title",
+			"site-main",
+			"bread",
+			"widget_recent_entries",
+			"rev_slider_28_1",
+			"tp-tab-mask",
+			"tp-tab",
+			"tp-tabs ",
+			"icon-facebook",
+			"button",
+			"1ABC9C",
+			"Home",
+			"/symple-images",
+			"hero-b",
+			"/symple-images",
+			"follow up task",
+			"Standard",
+			"1.5",
+			"heading-block ",
+			"#slider",
+			".floating-header",
+			"Time Management",
+			"ANVAS: WE KNOW YOU WANT IT!",
+			" nobottommargin",
+			"notopmargin",
+			"section {",
+			"section",
+			"Lead Managemen",
+			"Time Manage",
+			"flexible",
+			"lead",
+			"Features",
+			"F26101",
+			"#header",
+			".content-wrap",
+			"button-light",
+			"button",
+			"header-wrap",
+			"60px",
+			"#logo",
+			"#FFF",
+			"sticky",
+			"#header",
+			"#logo",
+			"height",
+			"#logo",
+			"dark",
+			"#slider",
+			"after",
+			"before",
+			".slider-caption h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100%",
+			"37646F",
+			"495256",
+			"37646F",
+			"1B2B32",
+			"37646F",
+			".",
+			"beehex_slider",
+			"",
+			"jfakf-3",
+			"jfakf-2",
+			"jfakf-1",
+			"fjdskf-3",
+			"fjdskf-2",
+			"fjdskf-1",
+			"line-3",
+			"line-2",
+			"line-1",
+			"boss",
+			".ipsGrid",
+			".ipsApp .ipsGrid > .ipsGrid_span",
+			".ipsGrid_span",
+			"{style_images_url}/fonts",
+			"href=\"http://www.meatscience.org/",
+			"7c7c7c",
+			"fafafa",
+			"e7e7e7",
+			"dadada",
+			"f6f6f6",
+			"ebebeb",
+			"4e4e4e",
+			"ededed",
+			"fbfbfb",
+			"e6e6e6",
+			"525252",
+			"4a4a4a",
+			"d9d9d9",
+			"f3f3f3",
+			"e4e4e4",
+			"ebebeb",
+			"c60c30",
+			"e5e5e6",
+			"282828",
+			"e4e4e4",
+			"454545",
+			"fff",
+			"efefef",
+			"727272",
+			"f8f8f8",
+			"e0e0e0",
+			"e2e2e2",
+			"\"http://www.nba.com/heat",
+			"\"http://www.nba.com/heat/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 23229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5498,
+								5498
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1574.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.less",
+					"settings":
+					{
+						"buffer_size": 25212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1079.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "usgov_intro.html",
+					"settings":
+					{
+						"buffer_size": 22919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4368,
+								4368
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1172.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/menu_elastic.css",
+					"settings":
+					{
+						"buffer_size": 3211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2622,
+								2622
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 185.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true
+}
