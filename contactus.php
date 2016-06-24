@@ -113,6 +113,9 @@
 		        phone: {
 		        	required: true,
 					phoneUS: true
+		        },
+		        message: {
+		        	required: true
 		        }
 		    }
 		});

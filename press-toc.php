@@ -343,7 +343,7 @@
                     </h2>
                   </div>
                   <div class="col-lg-3">
-                    <img width="388" class="img-responsive" src="goreyg-01.jpg" alt="Gorey Guardian">
+                    <img width="388" class="img-responsive" src="./images/press/goreyg-01.jpg" alt="Gorey Guardian">
                   </div>
                   <div class="col-lg-9">
                     <p>Ballymackessy near Clonroche is the unlikely starting point for a major new blockbuster TV series to be aired by leading American Channel CBS. Walter, who never had a computer lesson in his life, was a self-taught child prodigy who, when not yet in his teens, sold some livestock his father had given him in payment for his chores, to buy his first personal computer...</p>

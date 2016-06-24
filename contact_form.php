@@ -12,21 +12,13 @@ $message = $_REQUEST['message'] ;
 $phone = $_REQUEST['phone'] ;
 
 
-$mail = new PHPMailer(true);
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->SMTPDebug = 0;
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Host = 'secure.emailsrvr.com';  // Specify main and backup SMTP servers
-$mail->Port = 465;    
-$mail->Username = "scsforms@scorpioncomputerservices.com";                 // SMTP username
-$mail->Password = "1]g&4@9'%]&4&;L";                         // SMTP password
+include 'includes/smtp.php'; 
 
 // $email = $_REQUEST['email'] ;
 $mail->From = $email;
 
 // below we want to set the email address we will be sending our email to.
-$mail->AddAddress("brianandgarcia@gmail.com", "Brian Garcia");
+$mail->AddAddress("csforms@myscorpiontest.com", "Scorpion Computer Services");
 // set word wrap to 50 characters
 $mail->WordWrap = 50;
 // set email format to HTML

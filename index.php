@@ -302,15 +302,19 @@
 				<textarea type="hidden" id="messageHidden" name="message" class="form-control" style="display: none"></textarea>
 
                   <div class="form-group">
-                    <label><input id="fundedNeed" type="radio" name="additionalInfo" value="I have a funded need, wish or problem"> I have a funded need, wish or problem</label>
-                    <div class="inline-form">
-                    	<label><input type="radio" name="fundedOption" value="$5k - $100k"> $5k - $100k</label>
-                    	<label><input type="radio" name="fundedOption" value="$101k - $500k"> $101k - $500k</label>
-                    	<label><input type="radio" name="fundedOption" value="More than $500k"> More than $500k</label>
-                    </div>
-					<label><input id="unfunded" type="radio" name="additionalInfo" value="I have an unfunded need wish or problem"> I have an unfunded need wish or problem</label>
-					<label><input id="workScorpion" type="radio" name="additionalInfo" value="I want to work for Scorpion"> I want to work for Scorpion</label>
-					<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a speaker for my company, school or conference</label>
+                  	<div id="fundedContainer">
+	                    <label><input id="fundedNeed" type="radio" name="additionalInfo" value="I have a funded need, wish or problem"> I have a funded need, wish or problem</label>
+	                    <div class="inline-form">
+	                    	<label><input id="fundedDefault" class="fundedOption" type="radio" name="fundedOption" value="$5k - $100k"> $5k - $100k</label>
+	                    	<label><input class="fundedOption" type="radio" name="fundedOption" value="$101k - $500k"> $101k - $500k</label>
+	                    	<label><input class="fundedOption" type="radio" name="fundedOption" value="More than $500k"> More than $500k</label>
+	                    </div>
+	                </div>
+	                <div id="otherOptions">
+						<label><input id="unfunded" type="radio" name="additionalInfo" value="I have an unfunded need wish or problem"> I have an unfunded need wish or problem</label>
+						<label><input id="workScorpion" type="radio" name="additionalInfo" value="I want to work for Scorpion"> I want to work for Scorpion</label>
+						<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a speaker for my company, school or conference</label>
+					</div>
                   </div>
 				  <div class="form-group">
 					  <label for="phone">Phone:</label>
@@ -411,6 +415,15 @@
 <script type='text/javascript' src='./js/slider/main.min.js'></script>
 <!-- Owl Carousel -->
 <script src="./js/owl.carousel.min.js"></script>
-
+<script type='text/javascript'>
+//Examples of Funded	
+$(function(){ 
+	$(".owl-carousel").owlCarousel({
+		autoplay: true,
+		items: 1,
+		loop: true
+	});
+});
+</script>
 </body>
 </html>

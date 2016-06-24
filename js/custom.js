@@ -1,13 +1,6 @@
 // start document ready
 $(function(){ 
 
-//Examples of Funded	
-$(".owl-carousel").owlCarousel({
- autoplay: true,
- items: 1,
- loop: true
-});
-
 //Smooth scroll on click
 $('a[href*="#"]:not([href="#"])').click(function() {
 	if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') && location.hostname === this.hostname) {
@@ -104,7 +97,6 @@ $(window).bind('scroll resize', function(){
 function formAjax() {
 	// Get the form.
 	var form = $('#home-form');
-	var formPopUp = $('#popup-form');
 
 	// Get the messages div.
 	var formMessages = $('#form-messages');
@@ -128,7 +120,10 @@ function formAjax() {
 		        },
 		        phone: {
 		        	required: true,
-					phoneUS: true
+		        	phoneRule: true
+		        },
+		        additionalInfo: {
+		        	required: true
 		        }
 		    }
 		});
@@ -138,11 +133,7 @@ function formAjax() {
 	    return this.optional( element ) || ( /^[a-z0-9]+([-._][a-z0-9]+)*@([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,4}$/.test( value ) && /^(?=.{1,64}@.{4,64}$)(?=.{6,100}$).*/.test( value ) );
 	}, 'Please enter valid email address.');
 
-	jQuery.validator.addMethod("phoneUS", function(phone_number, element) {
-	    phone_number = phone_number.replace(/\s+/g, "");
-	    return this.optional(element) || phone_number.length > 9 && 
-	    phone_number.match(/^(\+?1-?)?(\([2-9]\d{2}\)|[2-9]\d{2})-?[2-9]\d{2}-?\d{4}$/);
-	}, "Please specify a valid phone number");
+	jQuery.validator.addMethod('phoneRule', function(value) { return (value.match(/^((\+)?[1-9]{1,2})?([-\s\.])?((\(\d{1,4}\))|\d{1,4})(([-\s\.])?[0-9]{1,12}){1,2}(\s*(ext|x)\s*\.?:?\s*([0-9]+))?$/)); }, 'Please enter a valid phone number (Intl format accepted + ext: or x:)');
 
 	// Set up an event listener for the contact form.
 	$(form).submit(function(e) {
@@ -198,6 +189,17 @@ function formAjax() {
 }
 
 formAjax();
+
+$('#fundedContainer').change(function () {
+    $("#fundedNeed").prop("checked", true);
+});
+$('#fundedNeed').change(function () {
+	$("#fundedDefault").prop("checked", true);
+});
+
+$('#otherOptions').change(function () {
+	$(".fundedOption").prop("checked", false);
+});
 
 
 }); // end document ready
