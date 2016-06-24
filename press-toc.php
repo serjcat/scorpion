@@ -365,6 +365,7 @@
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/hollywood-reporter-1.html">Read More</a>
                   </div>
                 </div>
+                <hr>
                 <div class="row entry">
                   <div class="col-lg-12">
                     <h2>
@@ -844,6 +845,7 @@
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/brain-team.html">Read More</a>
                   </div>
                 </div> 
+                <hr>
                 <div class="row entry">
                   <div class="col-lg-12">
                     <h2>
@@ -942,7 +944,7 @@
                                 <li><a href="http://www.scorpioncomputerservices.com/fox-china.html">4.9 Fox News China Cybercrime</a></li>
                                 <li><a href="http://www.scorpioncomputerservices.com/hollywood-reporter.html">4.8 CBS to Pilot Scorpion TV Show</a></li>
                                 <li><a href="http://www.scorpioncomputerservices.com/caa-speaker.html">4.7 Walter O'Brien added to CAA's prestigious speakers</a></li>
-                                <li><a href="http://www.scorpioncomputerservices.com/investmentSymp.html">4.6 Family Office INvestment Symposium</a></li>
+                                <li><a href="http://www.scorpioncomputerservices.com/investmentSymp.html">4.6 Family Office Investment Symposium</a></li>
                                 <li><a href="http://www.scorpioncomputerservices.com/globalSummit.html">4.5 FOA Spring Global Summit</a></li>
                                 <li><a href="http://www.scorpioncomputerservices.com/forbes-link.html">4.4 Forbes and MSN</a></li>
                                 <li><a href="http://www.scorpioncomputerservices.com/most-innovative-award.html">4.3 Most Innovative Product Award</a></li>
