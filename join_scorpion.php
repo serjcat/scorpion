@@ -66,11 +66,11 @@
 						<div class="col-sm-12">
 							<div class="form-group">
 								<label for="expertise">Top 5 Expertise Areas</label>
-								<input name="expertise" type="text" class="form-control" id="expertise" placeholder="1."><br>
-								<input name="expertise" type="text" class="form-control" id="expertise" placeholder="2."><br>
-								<input name="expertise" type="text" class="form-control" id="expertise" placeholder="3."><br>
-								<input name="expertise" type="text" class="form-control" id="expertise" placeholder="4."><br>
-								<input name="expertise" type="text" class="form-control" id="expertise" placeholder="5.">
+								<input name="expertise1" type="text" class="form-control" id="expertise" placeholder="1."><br>
+								<input name="expertise2" type="text" class="form-control" id="expertise" placeholder="2."><br>
+								<input name="expertise3" type="text" class="form-control" id="expertise" placeholder="3."><br>
+								<input name="expertise4" type="text" class="form-control" id="expertise" placeholder="4."><br>
+								<input name="expertise5" type="text" class="form-control" id="expertise" placeholder="5.">
 							</div>
 						</div>
 					</div>
@@ -135,85 +135,22 @@
 		        },
 		        message: {
 		        	required: true
+		        },
+		        resume: {
+		        	required: true
+		        },
+		        location: {
+		        	required: true
+		        },
+		        expertise1: {
+		        	required: true
+		        },
+		        expertise2: {
+		        	required: true
 		        }
 		    }
 		});
 	});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function() {
-    $("#submit_btn").click(function() { 
-        //get input field values
-        var user_name       = $('input[name=firstName]').val(); 
-		var user_lname  	= $('input[name=lastName]').val();
-        var user_email      = $('input[name=email]').val();
-        var user_phone      = $('input[name=phone]').val();
-		var user_location  	= $('input[name=location]').val();
-		var user_exp1		= $('input[name=exp1]').val();
-		var user_exp2		= $('input[name=exp2]').val();
-		var user_exp3		= $('input[name=exp3]').val();
-		var user_exp4		= $('input[name=exp4]').val();
-		var user_exp5		= $('input[name=exp5]').val();
-		var user_ptime		= $('input[name=ptime]').val();
-		var user_ftime		= $('input[name=ftime]').val();
-		var user_hours		= $('input[name=hours]').val();
-		var attach_file     = $('input[name=file_attach]')[0].files[0];
-        var user_message    = $('textarea[name=message]').val();
-
-        //everything looks good! proceed...
-        if(proceed) 
-        {
-			$(".loading-img").show(); //show loading image
-			$(".submit_btn").hide(); //hide submit button
-			//data to be sent to server			
-			var post_data = new FormData();    
-			post_data.append( 'userName', user_name );
-			post_data.append( 'userLName', user_lname );
-			post_data.append( 'userEmail', user_email );
-			post_data.append( 'userPhone', user_phone );
-			post_data.append( 'userLocation', user_location );
-			post_data.append( 'userExp1', user_exp1 );
-			post_data.append( 'userExp2', user_exp2 );
-			post_data.append( 'userExp3', user_exp3 );
-			post_data.append( 'userExp4', user_exp4 );
-			post_data.append( 'userExp5', user_exp5 );
-			post_data.append( 'userPTime', user_ptime );
-			post_data.append( 'userFTime', user_ftime );
-			post_data.append( 'userHours', user_hours );
-			post_data.append( 'userMessage',user_message);
-			post_data.append( 'file_attach', attach_file );
-			//instead of $.post() we are using $.ajax()
-			//that's because $.ajax() has more options and can be used more flexibly.
-			$.ajax({
-			  url: 'join_scorpion_form.php',
-			  data: post_data,
-			  processData: false,
-			  contentType: false,
-			  type: 'POST',
-			  dataType:'json',
-			  success: function(data){
-					//load json data from server and output message     
-					if(data.type == 'error')
-					{
-						output = '<div class="error">'+data.text+'</div>';
-					}else{
-						output = '<div class="success">'+data.text+'</div>';
-						//reset values in all input fields
-						$('#contact_form input').val(''); 
-						$('#contact_form textarea').val(''); 
-					}
-					$("#result").hide().html(output).slideDown(); //show results from server
-					$(".loading-img").hide(); //hide loading image
-					$(".submit_btn").show(); //show submit button
-			  }
-			});
-					$("#result").hide().html(output).slideDown(); //show results from server
-					$(".loading-img").hide(); //hide loading image
-					$(".submit_btn").show(); //show submit button
-        }
-    });
-});
 </script>
 
 </body>

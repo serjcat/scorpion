@@ -49,7 +49,7 @@
 						<ul>
 							<li><a href="./contactus">Contact</a></li>
 							<li><a href="./join_scorpion">Join Scorpion</a></li>
-							<li><a href="./contactus">How We Work</a></li>
+							<li><a href="./howwework">How We Work</a></li>
 							<li><a href="./awards">Awards</a></li>
 							<li><a href="./the_team">The Team</a></li>
 						</ul>
@@ -58,7 +58,7 @@
 						<ul>
 							<li><a href="./scengen">ScenGen Product</a></li>
 							<li><a href="./scorpion-difference">The Difference</a></li>
-							<li><a href="#">Philanthropy / Causes</a></li>
+							<!-- <li><a href="#">Philanthropy / Causes</a></li> -->
 							<li><a href="./contactus">Book Scorpion to Speak</a></li>
 						</ul>
 					</div>

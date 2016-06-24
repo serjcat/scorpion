@@ -47,6 +47,25 @@ if(!$mail->Send())
    exit;
 }
 
+$mail = new PHPMailer();
+$mail->From = 'csforms@myscorpiontest.com';
+
+// below we want to set the email address we will be sending our email to.
+$mail->AddAddress($email);
+
+// set word wrap to 50 characters
+$mail->WordWrap = 50;
+// set email format to HTML
+$mail->IsHTML(true);
+
+$mail->Subject = "We Will Be In Touch!";
+
+$message = "Thank you for contacting Scorpion Computer Services. One of our specialists will contact you if more information is required.";
+$mail->Body = $message;
+$mail->AltBody = $email;
+
+$mail->Send();
+
 header("Location: thank_you");
 
 ?>

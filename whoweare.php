@@ -98,7 +98,7 @@
 		            	</li>
 		            </ul> 
 		            <h3>Why is Scorpion truly different from other consulting firms?</h3>
-		            <a href="./scorpion-difference.html">Click Here to View The Scorpion Computer Services Difference</a>
+		            <a href="./scorpion-difference">Click Here to View The Scorpion Computer Services Difference</a>
 		        </div>
 	        </div>
 	    </div>

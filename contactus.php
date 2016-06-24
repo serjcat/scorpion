@@ -69,20 +69,20 @@
 			<div class="row">
 				<div class="col-lg-4 text-center">
 					<strong>Los Angeles Office</strong><br>
-					Email: <a href="usa@scorpioncomputerservices.com">Scorpion USA</a>
+					Email: <a href="mailto:usa@scorpioncomputerservices.com">Scorpion USA</a>
 				</div>
 				<div class="col-lg-4 text-center">
 					<strong>Ireland Office</strong><br>
-					Email: <a href="euro@scorpioncomputerservices.com">Scorpion Europe</a>
+					Email: <a href="mailto:euro@scorpioncomputerservices.com">Scorpion Europe</a>
 				</div>
 				<div class="col-lg-4 text-center">
 					<strong>Tokyo Office</strong><br>
-	 				Email: <a href="japan@scorpioncomputerservices.com">Scorpion Japan</a>
+	 				Email: <a href="mailto:japan@scorpioncomputerservices.com">Scorpion Japan</a>
 	 			</div>
 	 		</div><br>
 	 		<div class="col-lg-12">
 	 			<p class="text-center">
-	 				Email: <a href="inquiry@scorpioncomputerservices.com">Scorpion Inquiry</a><br>Phone: (818) 237-9085
+	 				Email: <a href="mailto:inquiry@scorpioncomputerservices.com">Scorpion Inquiry</a><br>Phone: (818) 237-9085
 	 			</p>
 			</div>
 	 	</div>

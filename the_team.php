@@ -148,7 +148,7 @@
 			<div class="row text-center">
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><img src="./images/team/specialist.jpg" alt="Specialist 5" /></p>
+						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_specialist5.html"><img src="./images/team/specialist.jpg" alt="Specialist 5" /></a></p>
 						<h3>Specialist 5</h3>
 						<p><strong>Specialty:</strong> IT Governance, IT Strategy, Execution & Metrics, Strategic Sourcing, Vendor Management & Relations, Talent Management, Application Delivery, Project Management</p>
 						<p><strong>Technologies:</strong> Windows Environments from Desktop applications to Web applications(VB to .Net c#); Databases (MSSQL, Oracle, Sybase, MYSQL); Front End Internet GUI (HTML, Javascript, CSS)
@@ -161,7 +161,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_specialist5.html"><img src="./images/team/specialist.jpg" alt="Specialist 6" /></a></p>
+						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_Specialist6.html"><img src="./images/team/specialist.jpg" alt="Specialist 6" /></a></p>
 						<h3>Specialist 6</h3>
 						<p><strong>Specialty:</strong> Software QA, Applications Development</p>
 						<p><strong>Technologies:</strong> 38</p>
@@ -169,7 +169,7 @@
 						<p><strong>Projects:</strong> 4</p>
 						<p><strong>Country of Origin:</strong> United States (Born of Ecuador)</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_specialist6.html" class="btn btn-primary">View Bio</a>
+							<a href="http://www.scorpioncomputerservices.com/bio_Specialist6.html" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>

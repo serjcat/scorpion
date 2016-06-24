@@ -120,7 +120,8 @@ function formAjax() {
 		        },
 		        phone: {
 		        	required: true,
-		        	phoneRule: true
+		        	phoneRule: true,
+		        	minlength: 8
 		        },
 		        additionalInfo: {
 		        	required: true

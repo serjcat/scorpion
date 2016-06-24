@@ -123,16 +123,16 @@
 		<div class="press">
 			<div class="row">
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-archive.html"><img src="./images/logos/inquistir.png" width="150" alt="Inquistir" /></a>
+					<a href="./press-toc"><img src="./images/logos/inquistir.png" width="150" alt="Inquistir" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-archive.html"><img src="./images/logos/entrepreneur.png" width="150" alt="Entrepreneur" /></a>
+					<a href="./press-toc"><img src="./images/logos/entrepreneur.png" width="150" alt="Entrepreneur" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-archive.html"><img src="./images/logos/cnbc.png" width="100" alt="CNBC" /></a>
+					<a href="./press-toc"><img src="./images/logos/cnbc.png" width="100" alt="CNBC" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-archive.html"><img src="./images/logos/houston-chronicle.png"  width="150" alt="Houston Chronicle" /></a>
+					<a href="./press-toc"><img src="./images/logos/houston-chronicle.png"  width="150" alt="Houston Chronicle" /></a>
 				</div>
 			</div>
 		</div>
