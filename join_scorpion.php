@@ -17,7 +17,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-4 col-lg-push-4">
-				<form id="joinForm" method="post" action="join_scorpion_form.php">
+				<form id="joinForm" method="post" action="join_scorpion_form.php" enctype="multipart/form-data">
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="form-group">
@@ -44,21 +44,22 @@
 						<div class="col-sm-6">
 							<div class="form-group">
 								<label for="phone">Phone Number</label>
-								<input name="phone" class="form-control" id="phone" placeholder="Phone Number">
+								<input name="phone" class="form-control" id="phone2" placeholder="Phone Number">
 							</div>
 						</div>
 						<div class="col-sm-6">
 							<div class="form-group">
-								<label class="control-label">Add Resume</label>
-								<input id="resume" name="resume" type="file" class="file">
+								<label for="location">Location</label>
+								<input name="location" type="text" class="form-control" id="location" placeholder="Location">
 							</div>
+	
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="form-group">
-								<label for="location">Location</label>
-								<input name="location" type="text" class="form-control" id="location" placeholder="Location">
+								<label class="control-label">Add Resume</label>
+								<input id="resume" name="resume" type="file" class="file">
 							</div>
 						</div>
 					</div>

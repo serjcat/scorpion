@@ -50,6 +50,7 @@ if(!$mail->Send())
 
 $mail = new PHPMailer();
 $mail->From = 'csforms@myscorpiontest.com';
+$mail->FromName = 'Scorpion Computer Services';
 
 // below we want to set the email address we will be sending our email to.
 $mail->AddAddress($email);

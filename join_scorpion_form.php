@@ -20,7 +20,7 @@ $partTime = $_REQUEST['partTime'] ;
 $fullTime = $_REQUEST['fullTime'] ;
 $totalWeekly = $_REQUEST['totalWeekly'] ;
 $additional = $_REQUEST['additionalInfo'] ;
-
+$resume = $_REQUEST['resume'] ;
 
 include 'includes/smtp.php'; 
 
@@ -28,7 +28,7 @@ include 'includes/smtp.php';
 $mail->From = $email;
 
 // below we want to set the email address we will be sending our email to.
-$mail->AddAddress("brianandgarcia@gmail.com", "Scorpion Computer Services");
+$mail->AddAddress("csforms@myscorpiontest.com", "Scorpion Computer Services");
 // set word wrap to 50 characters
 $mail->WordWrap = 50;
 // set email format to HTML
@@ -57,8 +57,15 @@ List of Expertise:<br><br>
 <strong>Full Time Rate:</strong> $fullTime<br><br>
 <strong>Weekly Hours:</strong> $totalWeekly<br><br>
 <strong>Additional Information:</strong> $additional<br>
+$resume
 ";
 $mail->AltBody = $message;
+
+if (isset($_FILES['resume']) &&
+    $_FILES['resume']['error'] == UPLOAD_ERR_OK) {
+    $mail->AddAttachment($_FILES['resume']['tmp_name'],
+                         $_FILES['resume']['name']);
+}
 
 if(!$mail->Send())
 {
@@ -69,6 +76,7 @@ if(!$mail->Send())
 
 $mail = new PHPMailer();
 $mail->From = 'csforms@myscorpiontest.com';
+$mail->FromName = 'Scorpion Computer Services';
 
 // below we want to set the email address we will be sending our email to.
 $mail->AddAddress($email);
