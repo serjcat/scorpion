@@ -2,15 +2,15 @@
 <div class="ticker">
 	<div class="container-fluid">
 		<div class="news marquee">
-			<a href="./cbsla" target="_blank"><h4>Scorpion Geniuses Save the World</h4></a>
-			<a href="./irish-times-2" target="_blank"><h4>How an Irish Genius Saved the World</h4></a>
-			<a href="./daily-mail" target="_blank"><h4>From Farm Boy to Sherlock Holmes of the Computer Age...</h4></a>
-			<a href="./first-look" target="_blank"><h4>"Scorpion" TV show is the highest rated new pilot on CBS</h4></a>
-			<a href="./fox-boston" target="_blank"><h4>FOX News: Boston Bombing Video Forensics</h4></a>
-			<a href="./kilkennypeople-2" target="_blank"><h4>Scorpion engaged by top military officials</h4></a>
-			<a href="./sydneymh" target="_blank"><h4>Robert Patrick Talks Scorpion</h4></a>
-			<a href="./art-and-living" target="_blank"><h4>Walter O'Brien featured in Art and Living Magazine</h4></a>
-			<a href="./FOForum" target="_blank"><h4>Walter O'Brien explains Scorpion's history and...</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/cbsla.html" target="_blank"><h4>Scorpion Geniuses Save the World</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/irish-times-2.html" target="_blank"><h4>How an Irish Genius Saved the World</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/daily-mail.html" target="_blank"><h4>From Farm Boy to Sherlock Holmes of the Computer Age...</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/first-look.html" target="_blank"><h4>"Scorpion" TV show is the highest rated new pilot on CBS</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/fox-boston.html" target="_blank"><h4>FOX News: Boston Bombing Video Forensics</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/kilkennypeople-2.html" target="_blank"><h4>Scorpion engaged by top military officials</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/sydneymh.html" target="_blank"><h4>Robert Patrick Talks Scorpion</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/art-and-living.html" target="_blank"><h4>Walter O'Brien featured in Art and Living Magazine</h4></a>
+			<a href="http://www.scorpioncomputerservices.com/FOForum.html" target="_blank"><h4>Walter O'Brien explains Scorpion's history and...</h4></a>
 		</div>
 	</div>
 </div>
@@ -76,7 +76,7 @@
 			</div>
 			<div class="col-lg-4">
 				<strong>Send an email:</strong>
-				<span><a href="./index#intake-form">Contact Us</a></span>
+				<span><a href="./contactus">Contact Us</a></span>
 			</div>
 		</div>
 	</div>

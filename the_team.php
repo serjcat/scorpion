@@ -155,7 +155,7 @@
 						<p><strong>Years in it:</strong> 25+</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="./bio1_walter.html" class="btn btn-primary">View Bio</a>
+							<a href="http://www.scorpioncomputerservices.com/bio_specialist5.html" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
@@ -169,7 +169,7 @@
 						<p><strong>Projects:</strong> 4</p>
 						<p><strong>Country of Origin:</strong> United States (Born of Ecuador)</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_specialist5.html" class="btn btn-primary">View Bio</a>
+							<a href="http://www.scorpioncomputerservices.com/bio_specialist6.html" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
