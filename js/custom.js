@@ -125,6 +125,22 @@ function formAjax() {
 		        },
 		        additionalInfo: {
 		        	required: true
+		        },
+		        message: {
+		        	required: true
+		        },
+		        resume: {
+		        	required: true,
+		        	accept: "application/pdf, application/msword"
+		        },
+		        location: {
+		        	required: true
+		        },
+		        expertise1: {
+		        	required: true
+		        },
+		        expertise2: {
+		        	required: true
 		        }
 		    }
 		});

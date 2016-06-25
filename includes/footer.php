@@ -112,5 +112,6 @@ var google_remarketing_only = true;
 <script src="./js/jquery.marquee.min.js"></script>
 <!-- Form Validation -->
 <script src="./js/jquery.validate.js"></script>
+<script src="./js/additional-methods.min.js"></script>
 <!-- Your custom scripts -->
 <script type='text/javascript' src='./js/custom.min.js'></script>

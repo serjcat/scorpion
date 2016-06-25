@@ -17,7 +17,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-4 col-lg-push-4">
-				<form id="joinForm" method="post" action="join_scorpion_form.php" enctype="multipart/form-data">
+				<form id="joinForm" method="post" action="join_scorpion_form.php">
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="form-group">
@@ -115,44 +115,6 @@
 <div id="form-messages"></div>
 
 <?php include 'includes/footer.php'; ?> 
-
-<script type="text/javascript">
-	$('form').each(function() {
-		$(this).validate({ // initialize the plugin
-		    rules: {
-		        firstName: {
-		            required: true
-		        },
-		        lastName: {
-		            required: true
-		        },
-		        email: {
-		        	required: true,
-		        	myEmail: true
-		        },
-		        phone: {
-		        	required: true,
-					phoneUS: true
-		        },
-		        message: {
-		        	required: true
-		        },
-		        resume: {
-		        	required: true
-		        },
-		        location: {
-		        	required: true
-		        },
-		        expertise1: {
-		        	required: true
-		        },
-		        expertise2: {
-		        	required: true
-		        }
-		    }
-		});
-	});
-</script>
 
 </body>
 </html>
