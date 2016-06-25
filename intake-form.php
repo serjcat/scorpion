@@ -19,7 +19,7 @@ include 'includes/smtp.php';
 $mail->From = $email;
 
 // below we want to set the email address we will be sending our email to.
-$mail->AddAddress("csforms@myscorpiontest.com", "Scorpion Computer Services");
+$mail->AddAddress("scsforms@myscorpiontest.com", "Scorpion Computer Services");
 // set word wrap to 50 characters
 $mail->WordWrap = 50;
 // set email format to HTML

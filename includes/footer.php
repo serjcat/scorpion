@@ -58,7 +58,7 @@
 						<ul>
 							<li><a href="./scengen">ScenGen Product</a></li>
 							<li><a href="./scorpion-difference">The Difference</a></li>
-							<!-- <li><a href="#">Philanthropy / Causes</a></li> -->
+							<li><a href="./philanthropy-and-causes">Philanthropy / Causes</a></li> 
 							<li><a href="./contactus">Book Scorpion to Speak</a></li>
 						</ul>
 					</div>

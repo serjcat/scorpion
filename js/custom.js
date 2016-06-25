@@ -1,3 +1,59 @@
+//targets each tag form
+$('form').each(function() {
+	$(this).validate({ // initialize the plugin
+	    rules: {
+	    	name: {
+	    		required: true
+	    	},
+	        firstName: {
+	            required: true
+	        },
+	        lastName: {
+	            required: true
+	        },
+	        email: {
+	        	required: true,
+	        	myEmail: true
+	        },
+	        phone: {
+	        	required: true,
+	        	phoneRule: true,
+	        	minlength: 8
+	        },
+	        additionalInfo: {
+	        	required: true
+	        },
+	        message: {
+	        	required: true
+	        },
+	        resume: {
+	        	required: true,
+	        	accept: "application/pdf, application/msword"
+	        },
+	        location: {
+	        	required: true
+	        },
+	        expertise1: {
+	        	required: true
+	        },
+	        expertise2: {
+	        	required: true
+	        }
+	    },
+	    messages: {
+	    	resume: {
+	    		accept: "Please attach a valid format. PDF & .DOC are the only accepted formats."
+	    	}
+	    }
+	});
+});
+// create your custom rule
+jQuery.validator.addMethod("myEmail", function(value, element) {
+    return this.optional( element ) || ( /^[a-z0-9]+([-._][a-z0-9]+)*@([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,4}$/i.test( value ) && /^(?=.{1,64}@.{4,64}$)(?=.{6,100}$).*/.test( value ) );
+}, 'Please enter valid email address.');
+
+jQuery.validator.addMethod('phoneRule', function(value) { return (value.match(/^((\+)?[1-9]{1,2})?([-\s\.])?((\(\d{1,4}\))|\d{1,4})(([-\s\.])?[0-9]{1,12}){1,2}(\s*(ext|x)\s*\.?:?\s*([0-9]+))?$/)); }, 'Please enter a valid phone number (Intl format accepted + ext: or x:)');
+
 // start document ready
 $(function(){ 
 
@@ -93,64 +149,13 @@ navbar_visibility();
 $(window).bind('scroll resize', function(){
 	navbar_visibility();
 });
-	
+
 function formAjax() {
 	// Get the form.
 	var form = $('#home-form');
 
 	// Get the messages div.
 	var formMessages = $('#form-messages');
-
-	//targets each tag form
-	$('form').each(function() {
-		$(this).validate({ // initialize the plugin
-		    rules: {
-		    	name: {
-		    		required: true
-		    	},
-		        firstName: {
-		            required: true
-		        },
-		        lastName: {
-		            required: true
-		        },
-		        email: {
-		        	required: true,
-		        	myEmail: true
-		        },
-		        phone: {
-		        	required: true,
-		        	phoneRule: true,
-		        	minlength: 8
-		        },
-		        additionalInfo: {
-		        	required: true
-		        },
-		        message: {
-		        	required: true
-		        },
-		        resume: {
-		        	required: true,
-		        	accept: "application/pdf, application/msword"
-		        },
-		        location: {
-		        	required: true
-		        },
-		        expertise1: {
-		        	required: true
-		        },
-		        expertise2: {
-		        	required: true
-		        }
-		    }
-		});
-	});
-	// create your custom rule
-	jQuery.validator.addMethod("myEmail", function(value, element) {
-	    return this.optional( element ) || ( /^[a-z0-9]+([-._][a-z0-9]+)*@([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,4}$/.test( value ) && /^(?=.{1,64}@.{4,64}$)(?=.{6,100}$).*/.test( value ) );
-	}, 'Please enter valid email address.');
-
-	jQuery.validator.addMethod('phoneRule', function(value) { return (value.match(/^((\+)?[1-9]{1,2})?([-\s\.])?((\(\d{1,4}\))|\d{1,4})(([-\s\.])?[0-9]{1,12}){1,2}(\s*(ext|x)\s*\.?:?\s*([0-9]+))?$/)); }, 'Please enter a valid phone number (Intl format accepted + ext: or x:)');
 
 	// Set up an event listener for the contact form.
 	$(form).submit(function(e) {
