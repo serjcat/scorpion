@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion Computer Services | Stacy Casey</title>
 	<?php include 'includes/head-includes.php' ?>
 </head>
 <body class="other">
@@ -17,8 +17,8 @@
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="./index.html">Home</a></li>
-				<li><a href="./the_team.html">The Team</a></li>
+				<li><a href="./index">Home</a></li>
+				<li><a href="./the_team">The Team</a></li>
 				<li class="active">Stacy Casey</li>
 			</ol>
 			<div class="row">
@@ -36,7 +36,7 @@
 
 			            <div class="col-xs-12 col-sm-8">
 			              <ul class="list-group">
-			                <li class="list-group-item"><strong>Speciality:</strong> Process Improvement, Business Systems Analysis, Quality Assurance, Risk Mitigation</li>
+			                <li class="list-group-item"><strong>Specialty:</strong> Process Improvement, Business Systems Analysis, Quality Assurance, Risk Mitigation</li>
 			                <li class="list-group-item"><strong>Technologies:</strong> MS Office Suite, MS Publisher, MS Project, MS Visio, ARIS, VBA, Mercury Quality Center, BenderRBT, Perforce, Actuate</li>
 			                <li class="list-group-item"><strong>Years in it:</strong> 7</li>
 			                <li class="list-group-item"><strong>Projects:</strong> 35</li>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion Computer Services | Awards</title>
 	<?php include 'includes/head-includes.php'; ?>
 
 </head>
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-lg-9 tab-content">
 					<ol class="breadcrumb">
-				  		<li><a href="./index.html">Home</a></li>
+				  		<li><a href="./index">Home</a></li>
 				 		<li class="active">United States Government</li>
 					</ol>
 					<div role="tabpanel" class="tab-pane active" id="home">

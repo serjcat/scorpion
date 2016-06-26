@@ -49,7 +49,7 @@
 					<div class="team">
 						<p class="text-center"><a href="./bio-logan"><img src="./images/team/logan.jpg" alt="Logan Allin" /></a></p>
 						<h3>Logan Allin</h3>
-						<p><strong>Specialty:</strong> Management consulting with an IT foundation, with focus on business strategy, current state/future state/gap analysis, roadmap development, business/functional requirements, new product developmnet/design/launch, new market entry.</p>
+						<p><strong>Specialty:</strong> Management consulting with an IT foundation, with focus on business strategy, current state/future state/gap analysis, roadmap development, business/functional requirements, new product development/design/launch, new market entry.</p>
 						<p><strong>Technologies:</strong> 25</p>
 						<p><strong>Years in it:</strong> 12</p>
 						<p><strong>Projects:</strong> 250+</p>

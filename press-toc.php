@@ -361,7 +361,7 @@
                     <img width="388" class="img-responsive" src="./images/press/hollywood-reporter-icon-2.png" alt="The Hollywood Reporter">
                   </div>
                   <div class="col-lg-9">
-                    <p>"The Scorpion TV Drama just got approved by CBS. "Scorpion" is inspired by Walter O'Brien's life and how the man with the fourth-highest documented IQ became a real-life Professor X. It centers on a an eccentric genius and his international network of super-geniuses who form the last line of defense against the complex threats of the modern age. O'Brien, who will produce, goes by the hacker name of Scorpion and serves as CEO of Scorpion, a global think-tank for any funded problems. The show is centered on O'Brien's life and how he recruited and trained other geniuses from around the world to save lives and solve problems, from casino security to military drone warfare. Together, the geniuses have learned to help one another round out their personalities in order to better fit in and provide a greater benefit to society than they could working alone"...</p>
+                    <p>"The Scorpion TV Drama just got approved by CBS. "Scorpion" is inspired by Walter O'Brien's life and how the man with the fourth-highest documented IQ became a real-life Professor X. It centers on an eccentric genius and his international network of super-geniuses who form the last line of defense against the complex threats of the modern age. O'Brien, who will produce, goes by the hacker name of Scorpion and serves as CEO of Scorpion, a global think-tank for any funded problems. The show is centered on O'Brien's life and how he recruited and trained other geniuses from around the world to save lives and solve problems, from casino security to military drone warfare. Together, the geniuses have learned to help one another round out their personalities in order to better fit in and provide a greater benefit to society than they could working alone"...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/hollywood-reporter-1.html">Read More</a>
                   </div>
                 </div>
@@ -421,7 +421,7 @@
                     <img width="388" class="img-responsive" src="./images/press/family-office-association-03.jpg" alt="LIDO">
                   </div>
                   <div class="col-lg-9">
-                    <p>Walter O'Brien launches ConciergeUp.com to over 400 family office's and professional investors with an average Net Worth over $100m...</p>
+                    <p>Walter O'Brien launches ConciergeUp.com to over 400 family offices and professional investors with an average Net Worth over $100m...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/investmentSymp.html">Read More</a>
                   </div>
                 </div>
@@ -541,7 +541,7 @@
                     <img width="388" class="img-responsive" src="./images/press/navy2.jpg" alt="US Navy">
                   </div>
                   <div class="col-lg-9">
-                    <p>ScenGen is a new artificial intelligence based capability that allows us to think of all possible scenarios for a given situation. In a war theatre environment, there are many dispired systems and technologies that have been developed separately, yet need to work in an integrated fashion...</p>
+                    <p>ScenGen is a new artificial intelligence based capability that allows us to think of all possible scenarios for a given situation. In a war theatre environment, there are many desparate systems and technologies that have been developed separately, yet need to work in an integrated fashion...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/sgusn.html">Read More</a>
                   </div>
                 </div>  
@@ -571,7 +571,7 @@
                     <img width="388" class="img-responsive" src="./images/press/11CyberLaw_Radio012.jpg" alt="Cyber Law">
                   </div>
                   <div class="col-lg-9">
-                    <p>When you have no fitness for purpose clauses in your license agreement and noone can be sued when software breaks and software has bugs, the community is kind of trained to expect it and go "oh well it's software" and throw their hands up and nobody gets blamed and there's no consequences...</p>
+                    <p>When you have no fitness for purpose clauses in your license agreement and none can be sued when software breaks and software has bugs, the community is kind of trained to expect it and go "oh well it's software" and throw their hands up and nobody gets blamed and there's no consequences...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/cyber-law.html">Read More</a>
                   </div>
                 </div>  
@@ -826,7 +826,7 @@
                     <img width="388" class="img-responsive" src="./images/press/firstireland2.gif" alt="Walter has again succeeded">
                   </div>
                   <div class="col-lg-9">
-                    <p>Following a sweeping success last year, by coming first in Ireland in the Winsconsin International Computer Problem solving Competition, WALTER O'BRIEN, "Rosshaven" Tingarran. Callan, now aged 17 years, has again succeeded in retaining first place in Ireland again this year, as Team Leader at Senior level...</p>
+                    <p>Following a sweeping success last year, by coming first in Ireland in the Wisconsin International Computer Problem solving Competition, WALTER O'BRIEN, "Rosshaven" Tingarran. Callan, now aged 17 years, has again succeeded in retaining first place in Ireland again this year, as Team Leader at Senior level...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/first-in-ireland.html">Read More</a>
                   </div>
                 </div>       
@@ -856,7 +856,7 @@
                     <img width="388" class="img-responsive" src="./images/press/infoolympics2.gif" alt="Scorpion Promo 1">
                   </div>
                   <div class="col-lg-9">
-                    <p>A YOUNG MAN with very strong New Ross and district connections is leading the very first Irish team m the Information Olympics which are to be held in Argentina. He is 18·years-old Walter O'Brien, whose father, Maurice, is a native of Cushinstown, and his mother, Anne, nee Ronan, hails from New Ross. They lived at Borohill House, Clonroche, until about five years ago and the family are now based near Callan in Co.Kilkenny...</p>
+                    <p>A YOUNG MAN with very strong New Ross and district connections is leading the very first Irish team m the Information Olympics which are to be held in Argentina. He is 18·years-old Walter O'Brien, whose father, Maurice, is a native of Cushinstown, and his mother, Anne, nee Ronan, hails from New Ross. They lived at Borohill House, Clonroche, until about five years ago and the family is now based near Callan in Co.Kilkenny...</p>
                     <a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/information-olympics.html">Read More</a>
                   </div>
                 </div> 

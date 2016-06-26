@@ -23,12 +23,9 @@ $('form').each(function() {
 	        additionalInfo: {
 	        	required: true
 	        },
-	        message: {
-	        	required: true
-	        },
 	        resume: {
 	        	required: true,
-	        	accept: "application/pdf, application/msword"
+	        	accept: "application/pdf, application/msword, text/plain"
 	        },
 	        location: {
 	        	required: true

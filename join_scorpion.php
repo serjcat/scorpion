@@ -98,8 +98,8 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="form-group">
-								<label for="additionalInfo">Additional Information</label>
-								<textarea name="additionalInfo" type="text" class="form-control" id="additionalInfo" placeholder="Enter Additional Information"></textarea>
+								<label for="message">Additional Information</label>
+								<textarea name="message" type="text" class="form-control" id="message" placeholder="Enter Additional Information"></textarea>
 							</div>
 						</div>
 					</div>

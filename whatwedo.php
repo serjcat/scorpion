@@ -24,7 +24,7 @@
 				  <li><a href="http://www.scorpioncomputerservices.com/project_history.html">Project History</a></li>
 				</ol>
 				<p>We invite you to get to know us by reviewing the practice areas listed here and the results our other clients have experienced. Whether you are a large organization looking to improve, a small organization looking to grow or a new organization that wants to “do it the right way”, we can help. The practice areas listed here are written in a straight forward manner to convey “what” we can do. As for “how” we achieve these outstanding results we suggest you contact us for a deeper discussion of real substance tailored to your business needs.</p>
-				<p class="text-center"><a href="http://www.scorpioncomputerservices.com/images/Scorpion_Placemat.pdf" class="btn btn-primary" target="_blank">Download</a></p>
+				<p class="text-center"><a href="http://www.scorpioncomputerservices.com/images/Scorpion_Placemat.pdf" class="btn btn-primary" target="_blank">See More</a></p>
 				<hr>
 			</div>
 		</div>

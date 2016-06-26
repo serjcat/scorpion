@@ -19,8 +19,8 @@
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="./index.html">Home</a></li>
-				<li><a href="./the_team.html">The Team</a></li>
+				<li><a href="./index">Home</a></li>
+				<li><a href="./the_team">The Team</a></li>
 				<li class="active">Harold Charlap</li>
 			</ol>
 			<div class="row">
@@ -38,7 +38,7 @@
 
 			            <div class="col-xs-12 col-sm-8">
 			              <ul class="list-group">
-			                <li class="list-group-item"><strong>Speciality:</strong> Business Continuity/Disaster Recovery, Governance,	Information Technology Operations, Risk Mitigation</li>
+			                <li class="list-group-item"><strong>Specialty:</strong> Business Continuity/Disaster Recovery, Governance,	Information Technology Operations, Risk Mitigation</li>
 			                <li class="list-group-item"><strong>Technologies:</strong> 17</li>
 			                <li class="list-group-item"><strong>Years in it:</strong> 25</li>
 			                <li class="list-group-item"><strong>Projects:</strong> 250</li>

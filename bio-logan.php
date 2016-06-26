@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion Computer Services | Logan Allin</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -17,9 +17,9 @@
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="./index.html">Home</a></li>
-				<li><a href="./the_team.html">The Team</a></li>
-				<li class="active">Harold Charlap</li>
+				<li><a href="./index">Home</a></li>
+				<li><a href="./the_team">The Team</a></li>
+				<li class="active">Logan Allin</li>
 			</ol>
 			<div class="row">
 			  <div class="col-lg-12">
@@ -36,7 +36,7 @@
 
 			            <div class="col-xs-12 col-sm-8">
 			              <ul class="list-group">
-			                <li class="list-group-item"><strong>Speciality:</strong> Management consulting with an IT foundation, with focus on	business strategy, current state/future state/gap analysis,	roadmap development, business/functional requirements, new product development/design/launch, new market entry...</li>
+			                <li class="list-group-item"><strong>Specialty:</strong> Management consulting with an IT foundation, with focus on	business strategy, current state/future state/gap analysis,	roadmap development, business/functional requirements, new product development/design/launch, new market entry...</li>
 			                <li class="list-group-item"><strong>Technologies:</strong> 25</li>
 			                <li class="list-group-item"><strong>Years in it:</strong> 12</li>
 			                <li class="list-group-item"><strong>Projects:</strong> 250+</li>
@@ -56,7 +56,7 @@
 			      <hr>
 
 			      <div class="bs-callout bs-callout-danger">
-			        <h4>Speciality:</h4>
+			        <h4>Specialty:</h4>
 			        <p>
 			          Management consulting with an IT foundation, with focus on business strategy, current state/future state/gap analysis, roadmap development, business/functional requirements, new product development/design/launch, new market entry, M&A pre-deal due diligence/post-deal integration, IT buy vs. build and solution selection and implementation processes, and myriad other capabilities. Deep domain focus in the financial services industry, with experience in investment and wealth management, alternative asset management, insurance, and commercial and private/retail banking.
 			        </p>

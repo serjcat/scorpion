@@ -18,10 +18,9 @@ img {
 /* Typography */
 h1,h2,h3,h4 {
   color: #1B2B32;
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 30px;
 }
 h1 {
   text-align: left;
@@ -31,6 +30,9 @@ h2 {
 }
 a {
   color: #37646F;
+}
+p {
+  margin-bottom: 24px;
 }
 
 /* Bootstap Override */
@@ -472,36 +474,51 @@ section.testimonials {
     }
 
 }
-ul#sideTabs {
-    background: #fafafa;
-    border: 1px solid #ddd;
+.nav-tabs {
     margin: 16px 0;
-    padding: 1px 0;
-}
-.nav-tabs>li>a:hover {
-    border-radius: 0;
+    padding: 1px 0;  
     border: 0;
-    margin: 0;
-}
-.nav-tabs>li {
-    float: none;
-    margin-bottom: -1px;
-    a {
-      color: #333;
+
+    li {
+      float: none;
+      margin-bottom: -1px;
+      border-bottom: 1px solid #eee;
+      a {
+        color: #333;
+        padding: 0 15px;
+        font-size: 1rem;
+
+      }
+      a:hover {
+        border-radius: 0;
+        border: 0;
+        margin: 0;
+        background: #f3f3f3;
+      }
+      a:focus, .nav li a:hover {
+        background-color: rgba(0,0,0,.1);
+      }
+      &.active {
+        background: #B22E2F;
+        border: 0;
+      }
+      &.active a,
+      &.active a:focus {
+        background: #B22E2F;
+        border-radius: 0;
+        border: 0;
+        color: #fff;
+        &:hover {
+          color: #FFF;
+          background: #B22E2F;
+          border: 0;
+        }
+      }
     }
 }
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-  border: 0;
+.tab-pane { 
+  padding-left: 25px;
 }
-.nav-tabs {
-  &.nav>li>a {
-    padding: 0 15px;
-  }
-}
-.nav li a:focus, .nav li a:hover {
-    background-color: rgba(0,0,0,.1);
-}
-
 .other {
   .hero {
     background: #37646F;

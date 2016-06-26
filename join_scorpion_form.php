@@ -19,7 +19,6 @@ $expertise5 = $_REQUEST['expertise5'] ;
 $partTime = $_REQUEST['partTime'] ;
 $fullTime = $_REQUEST['fullTime'] ;
 $totalWeekly = $_REQUEST['totalWeekly'] ;
-$additional = $_REQUEST['additionalInfo'] ;
 $resume = $_REQUEST['resume'] ;
 
 include 'includes/smtp.php'; 
@@ -56,7 +55,7 @@ List of Expertise:<br><br>
 <strong>Part Time Rate:</strong> $partTime<br><br>
 <strong>Full Time Rate:</strong> $fullTime<br><br>
 <strong>Weekly Hours:</strong> $totalWeekly<br><br>
-<strong>Additional Information:</strong> $additional<br>
+<strong>Additional Information:</strong> $message<br>
 $resume
 ";
 $mail->AltBody = $message;

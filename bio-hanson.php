@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | </title>
+	<title>Scorpion Computer Services | Hanson Schmidt-Cornelius</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -17,8 +17,8 @@
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
-				<li><a href="./index.html">Home</a></li>
-				<li><a href="./the_team.html">The Team</a></li>
+				<li><a href="./index">Home</a></li>
+				<li><a href="./the_team">The Team</a></li>
 				<li class="active">Hanson Schmidt-Cornelius</li>
 			</ol>
 			<div class="row">
@@ -36,7 +36,7 @@
 
 			            <div class="col-xs-12 col-sm-8">
 			              <ul class="list-group">
-			                <li class="list-group-item"><strong>Speciality:</strong> Application Development, API programming, Embedded Systems, Computer Vision, Robotics</li>
+			                <li class="list-group-item"><strong>Specialty:</strong> Application Development, API programming, Embedded Systems, Computer Vision, Robotics</li>
 			                <li class="list-group-item"><strong>Technologies:</strong> 47</li>
 			                <li class="list-group-item"><strong>Years in it:</strong> 14</li>
 			                <li class="list-group-item"><strong>Projects:</strong> 15</li>
