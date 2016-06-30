@@ -175,7 +175,7 @@
 				<div class="inner-item">
 					<span class="icon"><i class="fa fa-crosshairs"></i></span>
 					<h3>Strategic</h3>
-					<p>Longer term solutions ensuring critical decisions start your major inititives on the right track. Key hire selection. System Architecture & Design.</p>
+					<p>Longer term solutions ensuring critical decisions start your major initiatives on the right track. Key hire selection. System Architecture & Design.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">

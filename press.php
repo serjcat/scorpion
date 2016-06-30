@@ -91,7 +91,7 @@
                 		<img class="img-responsive" src="./images/press/boston.jpg" alt="FOX News: Boston Bombing Video Forensics">
                 	</div>
                		<div class="col-lg-9">
-               			<p>Just three days after the bombings, the FBI released images of the attackers and the manhunt ensued. How did the agency so quickly process all that video from news cameras, personal phones and security cameras. Walter O'Brien discusses video forensics techniques that have been employed to rapidly digest massive amounts of video content...</p>
+               			<p>Just three days after the bombings, the FBI released images of the attackers and the manhunt ensued. How did the agency so quickly process all that video from news cameras, personal phones and security cameras? Walter O'Brien discusses video forensics techniques that have been employed to rapidly digest massive amounts of video content...</p>
                			<a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/fox-boston.html">Read More</a>
                		</div>
                	</div>

@@ -25,7 +25,7 @@ $('form').each(function() {
 	        },
 	        resume: {
 	        	required: true,
-	        	accept: "application/pdf, application/msword, text/plain"
+	        	accept: "application/pdf, application/msword, text/plain, application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 	        },
 	        location: {
 	        	required: true
