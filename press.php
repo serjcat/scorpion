@@ -15,6 +15,7 @@
         <div class="row">
             <!-- Blog Entries Column -->
             <div class="col-md-8">
+              
                 <h1 class="page-header">
                     Press Coverage<br>
                     <p>These are our top stories. See <a href="http://www.scorpioncomputerservices.com/press-archive.html">Recent Press</a> for our press in chronological order.</p>

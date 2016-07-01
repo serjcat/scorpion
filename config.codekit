@@ -47,6 +47,78 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/bio-specialist-1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-5.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-5.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-6.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-6.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-7.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-7.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bio-specialist-8.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bio-specialist-8.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bio-stacy.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -151,6 +223,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/faq.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/faq.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -461,6 +542,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/20Apr_2015_Stryke_Thumbnail (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9036,
+		"inputAbbreviatedPath": "\/images\/press\/20Apr_2015_Stryke_Thumbnail (1).jpg",
+		"outputAbbreviatedPath": "\/images\/press\/20Apr_2015_Stryke_Thumbnail (1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/20Apr_2015_Stryke_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9036,
+		"inputAbbreviatedPath": "\/images\/press\/20Apr_2015_Stryke_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/20Apr_2015_Stryke_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/20May2015_Rand_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15869,
+		"inputAbbreviatedPath": "\/images\/press\/20May2015_Rand_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/20May2015_Rand_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/21May2015_Founders_Institute_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6718,
+		"inputAbbreviatedPath": "\/images\/press\/21May2015_Founders_Institute_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/21May2015_Founders_Institute_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/22May2015_Octane_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3139,
+		"inputAbbreviatedPath": "\/images\/press\/22May2015_Octane_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/22May2015_Octane_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/28May2015_Business_Rockstars_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12149,
+		"inputAbbreviatedPath": "\/images\/press\/28May2015_Business_Rockstars_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/28May2015_Business_Rockstars_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/3Jun2015_UCSD_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5561,
+		"inputAbbreviatedPath": "\/images\/press\/3Jun2015_UCSD_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/3Jun2015_UCSD_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/aeei2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -479,6 +637,28 @@
 		"initialSize": 18010,
 		"inputAbbreviatedPath": "\/images\/press\/aeei22.png",
 		"outputAbbreviatedPath": "\/images\/press\/aeei22.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/BallState_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18744,
+		"inputAbbreviatedPath": "\/images\/press\/BallState_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/BallState_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/biz_journal_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11405,
+		"inputAbbreviatedPath": "\/images\/press\/biz_journal_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/biz_journal_thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -505,6 +685,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/brainPowerThumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9242,
+		"inputAbbreviatedPath": "\/images\/press\/brainPowerThumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/brainPowerThumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/BusinessMakers_Thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30327,
+		"inputAbbreviatedPath": "\/images\/press\/BusinessMakers_Thumbnail.png",
+		"outputAbbreviatedPath": "\/images\/press\/BusinessMakers_Thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/CAA-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8678,
+		"inputAbbreviatedPath": "\/images\/press\/CAA-logo.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/CAA-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/CarterMatt_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14694,
+		"inputAbbreviatedPath": "\/images\/press\/CarterMatt_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/CarterMatt_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/cbsla.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -516,6 +740,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/CD_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17736,
+		"inputAbbreviatedPath": "\/images\/press\/CD_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/CD_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/CelebTop10_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15702,
+		"inputAbbreviatedPath": "\/images\/press\/CelebTop10_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/CelebTop10_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/china.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -523,6 +769,39 @@
 		"initialSize": 89337,
 		"inputAbbreviatedPath": "\/images\/press\/china.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/china.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/chron_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14042,
+		"inputAbbreviatedPath": "\/images\/press\/chron_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/chron_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Code_Wars_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15835,
+		"inputAbbreviatedPath": "\/images\/press\/Code_Wars_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Code_Wars_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/CSO_Thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2586,
+		"inputAbbreviatedPath": "\/images\/press\/CSO_Thumbnail.png",
+		"outputAbbreviatedPath": "\/images\/press\/CSO_Thumbnail.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -545,6 +824,72 @@
 		"initialSize": 16422,
 		"inputAbbreviatedPath": "\/images\/press\/DailyMail-00.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/DailyMail-00.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/DigitalJournal_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11671,
+		"inputAbbreviatedPath": "\/images\/press\/DigitalJournal_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/DigitalJournal_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/DramaQuarterly_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7802,
+		"inputAbbreviatedPath": "\/images\/press\/DramaQuarterly_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/DramaQuarterly_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/dzone_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4039,
+		"inputAbbreviatedPath": "\/images\/press\/dzone_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/dzone_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Ent_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9518,
+		"inputAbbreviatedPath": "\/images\/press\/Ent_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Ent_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/EpochTimes_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18438,
+		"inputAbbreviatedPath": "\/images\/press\/EpochTimes_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/EpochTimes_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Examiner_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9663,
+		"inputAbbreviatedPath": "\/images\/press\/Examiner_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Examiner_Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -593,6 +938,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/fhww__Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22776,
+		"inputAbbreviatedPath": "\/images\/press\/fhww__Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/fhww__Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/first-look.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -600,6 +956,17 @@
 		"initialSize": 23677,
 		"inputAbbreviatedPath": "\/images\/press\/first-look.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/first-look.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Fortune01_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7319,
+		"inputAbbreviatedPath": "\/images\/press\/Fortune01_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Fortune01_Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -637,6 +1004,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/hackathon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27984,
+		"inputAbbreviatedPath": "\/images\/press\/hackathon.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/hackathon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/hackread_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5644,
+		"inputAbbreviatedPath": "\/images\/press\/hackread_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/hackread_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/hntgb2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -670,6 +1059,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/Houston2_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14839,
+		"inputAbbreviatedPath": "\/images\/press\/Houston2_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Houston2_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/HoustonChronicle_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22520,
+		"inputAbbreviatedPath": "\/images\/press\/HoustonChronicle_02.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/HoustonChronicle_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/hplus_01_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2815,
+		"inputAbbreviatedPath": "\/images\/press\/hplus_01_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/hplus_01_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/htc_board_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24931,
+		"inputAbbreviatedPath": "\/images\/press\/htc_board_thumb.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/htc_board_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/htc_keynote_small_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18285,
+		"inputAbbreviatedPath": "\/images\/press\/htc_keynote_small_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/htc_keynote_small_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/IAandE_00_initial.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23129,
+		"inputAbbreviatedPath": "\/images\/press\/IAandE_00_initial.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/IAandE_00_initial.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/inquisitor_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14497,
+		"inputAbbreviatedPath": "\/images\/press\/inquisitor_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/inquisitor_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/interview2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -688,6 +1154,17 @@
 		"initialSize": 9559,
 		"inputAbbreviatedPath": "\/images\/press\/irishCentral-01.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/irishCentral-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/irishman_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39208,
+		"inputAbbreviatedPath": "\/images\/press\/irishman_thumb.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/irishman_thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -714,6 +1191,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/iw2_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/images\/press\/iw2_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/iw2_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/KHOU_thumbnail_small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8509,
+		"inputAbbreviatedPath": "\/images\/press\/KHOU_thumbnail_small.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/KHOU_thumbnail_small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/kilkenny-paper.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -736,6 +1235,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/kilkennypeople-mayor-03 (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8368,
+		"inputAbbreviatedPath": "\/images\/press\/kilkennypeople-mayor-03 (1).jpg",
+		"outputAbbreviatedPath": "\/images\/press\/kilkennypeople-mayor-03 (1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/kilkennypeople-mayor-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -743,6 +1253,17 @@
 		"initialSize": 8368,
 		"inputAbbreviatedPath": "\/images\/press\/kilkennypeople-mayor-03.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/kilkennypeople-mayor-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/LABiz_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17712,
+		"inputAbbreviatedPath": "\/images\/press\/LABiz_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/LABiz_Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -780,6 +1301,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/MomZette_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17869,
+		"inputAbbreviatedPath": "\/images\/press\/MomZette_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/MomZette_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/mstars_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37722,
+		"inputAbbreviatedPath": "\/images\/press\/mstars_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/mstars_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/navy2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -802,6 +1345,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/NIDIA_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18008,
+		"inputAbbreviatedPath": "\/images\/press\/NIDIA_01.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/NIDIA_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Nidia_Award_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12016,
+		"inputAbbreviatedPath": "\/images\/press\/Nidia_Award_thumb.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Nidia_Award_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/nypost-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -809,6 +1374,28 @@
 		"initialSize": 10235,
 		"inputAbbreviatedPath": "\/images\/press\/nypost-01.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/nypost-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/oneWest_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4455,
+		"inputAbbreviatedPath": "\/images\/press\/oneWest_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/oneWest_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/opal_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14332,
+		"inputAbbreviatedPath": "\/images\/press\/opal_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/opal_thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -835,6 +1422,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/PCWorld_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26575,
+		"inputAbbreviatedPath": "\/images\/press\/PCWorld_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/PCWorld_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/press-headlines2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -842,6 +1440,127 @@
 		"initialSize": 52575,
 		"inputAbbreviatedPath": "\/images\/press\/press-headlines2.png",
 		"outputAbbreviatedPath": "\/images\/press\/press-headlines2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150720-0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34991,
+		"inputAbbreviatedPath": "\/images\/press\/press_150720-0.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150720-0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150727.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 237584,
+		"inputAbbreviatedPath": "\/images\/press\/press_150727.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150727.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150817-2-0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90452,
+		"inputAbbreviatedPath": "\/images\/press\/press_150817-2-0.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150817-2-0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150823-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67646,
+		"inputAbbreviatedPath": "\/images\/press\/press_150823-1.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150823-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150825.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17053,
+		"inputAbbreviatedPath": "\/images\/press\/press_150825.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150825.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150826-0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38895,
+		"inputAbbreviatedPath": "\/images\/press\/press_150826-0.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150826-0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150901.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69356,
+		"inputAbbreviatedPath": "\/images\/press\/press_150901.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150901.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_150902-0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50911,
+		"inputAbbreviatedPath": "\/images\/press\/press_150902-0.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_150902-0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_151008-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39311,
+		"inputAbbreviatedPath": "\/images\/press\/press_151008-2.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_151008-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_151025_thumbnail (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/images\/press\/press_151025_thumbnail (1).jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_151025_thumbnail (1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/press_151025_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/images\/press\/press_151025_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/press_151025_thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -879,6 +1598,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/SandHill01_Thumbnail (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5771,
+		"inputAbbreviatedPath": "\/images\/press\/SandHill01_Thumbnail (1).jpg",
+		"outputAbbreviatedPath": "\/images\/press\/SandHill01_Thumbnail (1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/SandHill01_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5771,
+		"inputAbbreviatedPath": "\/images\/press\/SandHill01_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/SandHill01_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/SandHill02_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8700,
+		"inputAbbreviatedPath": "\/images\/press\/SandHill02_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/SandHill02_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/scengen2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -890,6 +1642,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/ScienceFair_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12122,
+		"inputAbbreviatedPath": "\/images\/press\/ScienceFair_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/ScienceFair_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/socom_2015.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125710,
+		"inputAbbreviatedPath": "\/images\/press\/socom_2015.png",
+		"outputAbbreviatedPath": "\/images\/press\/socom_2015.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Star_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9425,
+		"inputAbbreviatedPath": "\/images\/press\/Star_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Star_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/StElizabeth_Thubnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20779,
+		"inputAbbreviatedPath": "\/images\/press\/StElizabeth_Thubnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/StElizabeth_Thubnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/sydney-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -897,6 +1693,83 @@
 		"initialSize": 5180,
 		"inputAbbreviatedPath": "\/images\/press\/sydney-01.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/sydney-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/TalkStar_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4911,
+		"inputAbbreviatedPath": "\/images\/press\/TalkStar_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/TalkStar_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/TechDay_Thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7410,
+		"inputAbbreviatedPath": "\/images\/press\/TechDay_Thumbnail.png",
+		"outputAbbreviatedPath": "\/images\/press\/TechDay_Thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Tell-Tale-TV_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12164,
+		"inputAbbreviatedPath": "\/images\/press\/Tell-Tale-TV_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Tell-Tale-TV_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/theJournal_04_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22083,
+		"inputAbbreviatedPath": "\/images\/press\/theJournal_04_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/theJournal_04_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/theWrap2_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8919,
+		"inputAbbreviatedPath": "\/images\/press\/theWrap2_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/theWrap2_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/theWrap3_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8613,
+		"inputAbbreviatedPath": "\/images\/press\/theWrap3_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/theWrap3_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/theWrap_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7642,
+		"inputAbbreviatedPath": "\/images\/press\/theWrap_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/theWrap_Thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -923,6 +1796,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/press\/USC2_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5495,
+		"inputAbbreviatedPath": "\/images\/press\/USC2_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/USC2_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/USC_Thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20352,
+		"inputAbbreviatedPath": "\/images\/press\/USC_Thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/USC_Thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/press\/usni2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -941,6 +1836,39 @@
 		"initialSize": 7958,
 		"inputAbbreviatedPath": "\/images\/press\/Wexford-00.jpg",
 		"outputAbbreviatedPath": "\/images\/press\/Wexford-00.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/wexford-echo-thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7894,
+		"inputAbbreviatedPath": "\/images\/press\/wexford-echo-thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/wexford-echo-thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/Wexford_Award_01_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4491,
+		"inputAbbreviatedPath": "\/images\/press\/Wexford_Award_01_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/Wexford_Award_01_thumbnail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/press\/xPrize_00.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17374,
+		"inputAbbreviatedPath": "\/images\/press\/xPrize_00.jpg",
+		"outputAbbreviatedPath": "\/images\/press\/xPrize_00.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

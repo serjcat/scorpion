@@ -91,14 +91,14 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio9_s1.html"><img src="./images/team/specialist.jpg" alt="Specialist 1" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-1"><img src="./images/team/specialist.jpg" alt="Specialist 1" /></a></p>
 						<h3>Specialist 1</h3>
 						<p><strong>Specialty:</strong> IT, Software Configuration Management, Build and Release Engineering, Source Code Management, Automation, SDLC/Workflow, Application Packaging/Installers</p>
 						<p><strong>Technologies:</strong> 50</p>
 						<p><strong>Years in it:</strong> 9</p>
 						<p><strong>Country of Origin:</strong> India</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio9_s1.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-1" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
@@ -106,20 +106,20 @@
 			<div class="row text-center">
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bi010_s2.html"><img src="./images/team/specialist.jpg" alt="Specialist 2" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-2"><img src="./images/team/specialist.jpg" alt="Specialist 2" /></a></p>
 						<h3>Specialist 2</h3>
 						<p><strong>Specialty:</strong> Software Configuration Management, Automation, Internal Tools Development</p>
 						<p><strong>Technologies:</strong> 16</p>
 						<p><strong>Years in it:</strong> 3</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bi010_s2.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-2" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio7_s3.html"><img src="./images/team/specialist.jpg" alt="Specialist 3" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-3"><img src="./images/team/specialist.jpg" alt="Specialist 3" /></a></p>
 						<h3>Specialist 3</h3>
 						<p><strong>Specialty:</strong> Risk Mitigation, Optimization, Machine Intelligence, Architecture, Governance, Compliance, Quality Assurance, Globalization</p>
 						<p><strong>Technologies:</strong> 35</p>
@@ -127,20 +127,20 @@
 						<p><strong>Projects:</strong> 142</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio7_s3.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-3" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_Specialist4.html"><img src="./images/team/specialist.jpg" alt="Specialist 4" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-4"><img src="./images/team/specialist.jpg" alt="Specialist 4" /></a></p>
 						<h3>Specialist 4</h3>
 						<p><strong>Specialty:</strong> Large Infrastructure, Datacenter, Technical Strategic Planning, Operational Restructuring</p>
 						<p><strong>Years in it:</strong> 15</p>
 						<p><strong>Projects:</strong> 122</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_Specialist4.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-4" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
@@ -148,20 +148,20 @@
 			<div class="row text-center">
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_specialist5.html"><img src="./images/team/specialist.jpg" alt="Specialist 5" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-5"><img src="./images/team/specialist.jpg" alt="Specialist 5" /></a></p>
 						<h3>Specialist 5</h3>
 						<p><strong>Specialty:</strong> IT Governance, IT Strategy, Execution & Metrics, Strategic Sourcing, Vendor Management & Relations, Talent Management, Application Delivery, Project Management</p>
 						<p><strong>Technologies:</strong> Windows Environments from Desktop applications to Web applications(VB to .Net c#); Databases (MSSQL, Oracle, Sybase, MYSQL); Front End Internet GUI (HTML, Javascript, CSS)
 						<p><strong>Years in it:</strong> 25+</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_specialist5.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-5" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_Specialist6.html"><img src="./images/team/specialist.jpg" alt="Specialist 6" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-6"><img src="./images/team/specialist.jpg" alt="Specialist 6" /></a></p>
 						<h3>Specialist 6</h3>
 						<p><strong>Specialty:</strong> Software QA, Applications Development</p>
 						<p><strong>Technologies:</strong> 38</p>
@@ -169,13 +169,13 @@
 						<p><strong>Projects:</strong> 4</p>
 						<p><strong>Country of Origin:</strong> United States (Born of Ecuador)</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_Specialist6.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-6" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="http://www.scorpioncomputerservices.com/bio_Specialist7.html"><img src="./images/team/specialist.jpg" alt="Specialist 7" /></a></p>
+						<p class="text-center"><a href="./bio-specialist-7"><img src="./images/team/specialist.jpg" alt="Specialist 7" /></a></p>
 						<h3>Specialist 7</h3>
 						<p><strong>Specialty:</strong> Software Process, Systems Architecture, Quality Assurance, Software Development, Software Configuration</p>
 						<p><strong>Technologies:</strong> C/C++, Java, J2EE, Weblogic, Websphere, Apache, HP-UX, Solaris, Windows, Databases, Security, Web Services, Source Control</p>
@@ -183,7 +183,23 @@
 						<p><strong>Projects:</strong> 20</p>
 						<p><strong>Country of Origin:</strong> United States</p>
 						<p class="text-center">
-							<a href="http://www.scorpioncomputerservices.com/bio_Specialist7.html" class="btn btn-primary">View Bio</a>
+							<a href="./bio-specialist-7" class="btn btn-primary">View Bio</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+					<div class="team">
+						<p class="text-center"><a href="./bio-specialist-8"><img src="./images/team/specialist.jpg" alt="Specialist-8" /></a></p>
+						<h3>Specialist 8</h3>
+						<p><strong>Specialty:</strong> Management (Project, client, staff)</p>
+						<p><strong>Technologies:</strong> N/A</p>
+						<p><strong>Years in it:</strong> 26</p>
+						<p><strong>Projects:</strong> 78</p>
+						<p><strong>Country of Origin:</strong> United States</p>
+						<p class="text-center">
+							<a href="./bio-specialist-8" class="btn btn-primary">View Bio</a>
 						</p>
 					</div>
 				</div>

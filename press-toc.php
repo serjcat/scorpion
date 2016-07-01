@@ -15,9 +15,13 @@
         <div class="row">
             <!-- Blog Entries Column -->
             <div class="col-md-8">
+                <ol class="breadcrumb">
+                  <li class="active">Top Press</li>
+                  <li><a href="./recent-press">View Our Recent Stories</a></li>
+                </ol>
                 <h1 class="page-header">
                     Press Coverage<br>
-                    <p>These are our top stories. See <a href="http://www.scorpioncomputerservices.com/press-archive.html">Recent Press</a> for our press in chronological order.</p>
+                    <p>These are our top stories. See <a href="./recent-press">Recent Press</a> for our press in chronological order.</p>
                 </h1>
                 <!-- First Blog Post -->
                 <div class="row entry">
@@ -91,7 +95,7 @@
                 		<img width="388" class="img-responsive" src="./images/press/boston.jpg" alt="FOX News: Boston Bombing Video Forensics">
                 	</div>
                		<div class="col-lg-9">
-               			<p>Just three days after the bombings, the FBI released images of the attackers and the manhunt ensued. How did the agency so quickly process all that video from news cameras, personal phones and security cameras. Walter O'Brien discusses video forensics techniques that have been employed to rapidly digest massive amounts of video content...</p>
+               			<p>Just three days after the bombings, the FBI released images of the attackers and the manhunt ensued. How did the agency so quickly process all that video from news cameras, personal phones and security cameras? Walter O'Brien discusses video forensics techniques that have been employed to rapidly digest massive amounts of video content...</p>
                			<a class="btn btn-primary" href="http://www.scorpioncomputerservices.com/fox-boston.html">Read More</a>
                		</div>
                	</div>
