@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Harold Charlap</title>
+	<title>Scorpion Computer Services | Harold </title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -14,14 +14,14 @@
 	<section id="content">
 		<div class="hero">
 			<div class="container header text-center">
-				<h2>Harold Charlap</h2>
+				<h2>Harold </h2>
 			</div>
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
 				<li><a href="./index">Home</a></li>
 				<li><a href="./the_team">The Team</a></li>
-				<li class="active">Harold Charlap</li>
+				<li class="active">Harold </li>
 			</ol>
 			<div class="row">
 			  <div class="col-lg-12">
@@ -32,7 +32,7 @@
 
 			            <div class="col-xs-12 col-sm-4">
 			              <figure>
-			                <img class="img-responsive" alt="Harold Charlap" src="./images/team/harold.jpg">
+			                <img class="img-responsive" alt="Harold " src="./images/team/harold.jpg">
 			              </figure>
 			            </div>
 

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Stacy Casey</title>
+	<title>Scorpion Computer Services | Stacy </title>
 	<?php include 'includes/head-includes.php' ?>
 </head>
 <body class="other">
@@ -12,14 +12,14 @@
 	<section id="content">
 		<div class="hero">
 			<div class="container header text-center">
-				<h2>Stacy Casey</h2>
+				<h2>Stacy </h2>
 			</div>
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
 				<li><a href="./index">Home</a></li>
 				<li><a href="./the_team">The Team</a></li>
-				<li class="active">Stacy Casey</li>
+				<li class="active">Stacy </li>
 			</ol>
 			<div class="row">
 			  <div class="col-lg-12">
@@ -30,7 +30,7 @@
 
 			            <div class="col-xs-12 col-sm-4">
 			              <figure>
-			                <img class="img-responsive" alt="Stacy Casey" src="./images/team/stacy.jpg">
+			                <img class="img-responsive" alt="Stacy " src="./images/team/stacy.jpg">
 			              </figure>
 			            </div>
 
@@ -87,7 +87,7 @@
 
 			      <div class="bs-callout bs-callout-danger">
 			        <h4>Bio Summary:</h4>
-			        <p>Stacy Casey's experience encompasses both business and IT. Having started her career in accounting, attention to detail, accuracy, efficiency, and analytical thinking are the foundation of how she approaches every task.</p>
+			        <p>Stacy 's experience encompasses both business and IT. Having started her career in accounting, attention to detail, accuracy, efficiency, and analytical thinking are the foundation of how she approaches every task.</p>
 					<p>She implemented a significant improvement to a non-profit organization's annual fund-raising auction by defining new processes and implementing new technology for tracking auction donations and auction results that increased the revenues from $30K to well over $100K in the first year. In addition to the process improvements, the technological improvements allowed donations to be assigned to specific causes within the organization. Prior to these changes, the results of the annual event were reported 5 days later; these changes allowed the results to be reported within an hour of the event ending.</p>
 					<p>One of her largest projects was documentation of the equity trade cycle for a data warehouse. Majority of the development team was not familiar with the various business processes, systems, functionalities, or the data state transitions. She documented all of these and worked to train the team so they could begin building the data warehouse.</p>
 					<p>Stacy utilizes her analytical thought process, blended with her IT experiences, to ensure successful completion of all her projects.</p>

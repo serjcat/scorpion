@@ -20,7 +20,7 @@
 				<div class="col-lg-4 text-center">
 					<div class="team">
 						<p class="text-center"><a href="./bio-walter"><img src="./images/team/walter.jpg" alt="Walter O'Brien" /></a></p>
-						<h3>Walter O'Brien</h3>
+						<h3>Walter</h3>
 						<p><strong>Specialty:</strong> Risk Mitigation, Optimization, Machine Intelligence, Architecture, Governance, Compliance, Quality Assurance, Globalization</p>
 						<p><strong>Technologies:</strong> 96</p>
 						<p><strong>Years in it:</strong> 21</p>
@@ -33,8 +33,8 @@
 				</div>
 				<div class="col-lg-4 text-center">
 					<div class="team">
-						<p class="text-center"><a href="./bio-harold"><img src="./images/team/harold.jpg" alt="Harold Charlap" /></a></p>
-						<h3>Harold Charlap</h3>
+						<p class="text-center"><a href="./bio-harold"><img src="./images/team/harold.jpg" alt="Harold " /></a></p>
+						<h3>Harold </h3>
 						<p><strong>Specialty:</strong> Business Continuity/Disaster Recovery, Governance, Information Technology Operations, Risk Mitigation</p>
 						<p><strong>Technologies:</strong> Adobe, LDPRS, MS Office Suite, MS Project, MS Visio, CISCO Network Admin, Windows Server Admin, Netware Admin</p>
 						<p><strong>Years in it:</strong> 25</p>
@@ -47,8 +47,8 @@
 				</div>
 				<div class="col-lg-4 text-center">
 					<div class="team">
-						<p class="text-center"><a href="./bio-logan"><img src="./images/team/logan.jpg" alt="Logan Allin" /></a></p>
-						<h3>Logan Allin</h3>
+						<p class="text-center"><a href="./bio-logan"><img src="./images/team/logan.jpg" alt="Logan " /></a></p>
+						<h3>Logan </h3>
 						<p><strong>Specialty:</strong> Management consulting with an IT foundation, with focus on business strategy, current state/future state/gap analysis, roadmap development, business/functional requirements, new product development/design/launch, new market entry.</p>
 						<p><strong>Technologies:</strong> 25</p>
 						<p><strong>Years in it:</strong> 12</p>
@@ -63,8 +63,8 @@
 			<div class="row text-center">
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="./bio-stacy"><img src="./images/team/stacy.jpg" alt="Stacy Casey" /></a></p>
-						<h3>Stacy Casey</h3>
+						<p class="text-center"><a href="./bio-stacy"><img src="./images/team/stacy.jpg" alt="Stacy " /></a></p>
+						<h3>Stacy </h3>
 						<p><strong>Specialty:</strong> Process Improvement, Business System Analysis, Quality Assurance, Risk Mitigation</p>
 						<p><strong>Technologies:</strong> MS Office Suite, MS Publisher, MS Project, MS Visio, ARIS, VBA, Mercury Quality Center, BenderRBT, Perforce, Actuate</p>
 						<p><strong>Years in it:</strong> 7</p>
@@ -77,8 +77,8 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
-						<p class="text-center"><a href="./bio-hanson"><img src="./images/team/hanson.jpg" alt="Hanson Schmidt-Cornelius" /></a></p>
-						<h3>Hanson Schmidt-Cornelius</h3>
+						<p class="text-center"><a href="./bio-hanson"><img src="./images/team/hanson.jpg" alt="Hanson " /></a></p>
+						<h3>Hanson </h3>
 						<p><strong>Specialty:</strong> Application Development, API programming, Embedded Systems, Computer Vision, Robotics</p>
 						<p><strong>Technologies:</strong> 47</p>
 						<p><strong>Years in it:</strong> 14</p>

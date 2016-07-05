@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Hanson Schmidt-Cornelius</title>
+	<title>Scorpion Computer Services | Hanson </title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -12,14 +12,14 @@
 	<section id="content">
 		<div class="hero">
 			<div class="container header text-center">
-				<h2>Hanson Schmidt-Cornelius</h2>
+				<h2>Hanson </h2>
 			</div>
 		</div>
 		<div class="container">
 			<ol class="breadcrumb">
 				<li><a href="./index">Home</a></li>
 				<li><a href="./the_team">The Team</a></li>
-				<li class="active">Hanson Schmidt-Cornelius</li>
+				<li class="active">Hanson </li>
 			</ol>
 			<div class="row">
 			  <div class="col-lg-12">
@@ -30,7 +30,7 @@
 
 			            <div class="col-xs-12 col-sm-4">
 			              <figure>
-			                <img class="img-responsive" alt="Hanson Schmidt-Cornelius" src="./images/team/hanson.jpg">
+			                <img class="img-responsive" alt="Hanson " src="./images/team/hanson.jpg">
 			              </figure>
 			            </div>
 
@@ -103,7 +103,7 @@
 
 			      <div class="bs-callout bs-callout-danger">
 			      	<h4>Bio Summary</h4>
-			      	<p>Dr. Schmidt-Cornelius brings over 14 years of experience in application and embedded system development. Previously Dr. Schmidt-Cornelius worked at Convergys where he innovated and redesigned the documentation generation and management process for the company's rating and billing technology. This work was so significant that he was rewarded with a company distinction for his efforts. Prior to this, Dr. Schmidt-Cornelius developed embedded technology for vision control systems in academia. This work was offered by the University of Sussex in order to build on the contributions Dr. Schmidt-Cornelius made while he was working on his research as a Ph.D. student. In the defense industry, Dr. Schmidt-Cornelius was responsible for designing and implementing highly optimized algorithms for target tracking and prediction. His software is now used in applications all around the globe.</p>
+			      	<p>Dr.  brings over 14 years of experience in application and embedded system development. Previously Dr.  worked at Convergys where he innovated and redesigned the documentation generation and management process for the company's rating and billing technology. This work was so significant that he was rewarded with a company distinction for his efforts. Prior to this, Dr.  developed embedded technology for vision control systems in academia. This work was offered by the University of Sussex in order to build on the contributions Dr.  made while he was working on his research as a Ph.D. student. In the defense industry, Dr.  was responsible for designing and implementing highly optimized algorithms for target tracking and prediction. His software is now used in applications all around the globe.</p>
 			      </div>
 			    </div>
 			  </div>

@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="keywords" content="Walter O'Brien, Scorpion, Scorpion Computer Services, CBS, Drama, ConciergeUp" />
+	<meta name="keywords" content="Walter O'Brien, Scorpion, Scorpion, CBS, Drama, ConciergeUp" />
 	<meta name="description" content="Think Tank for Hire">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body>
@@ -16,7 +16,7 @@
 			<li class="cd-bg-video selected">
 				<div class="cd-full-width">
 					<h2>You've Come to the Right Place.</h2>
-					<p>We are the real company behind the Scorpion Computer Services portrayed in the CBS television show, <em>&lt;/Scorpion&gt;</em>. In real life, we solve any funded need.</p>
+					<p>We are the real company behind the Scorpion portrayed in the CBS television show, <em>&lt;/Scorpion&gt;</em>. In real life, we solve any funded need.</p>
 					<a href="#intake-form" class="cd-btn">Contact Us</a>
 				</div> <!-- .cd-full-width -->
 				<div class="cd-bg-video-wrapper" data-video="./videos/scorpion">
@@ -62,8 +62,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-md-12 text-justify robot-text">
-					<h1>About the Real Scorpion Computer Services</h1>
-					<p>Scorpion Computer Services is a Business Solution Provider utilizing a specialist rather than generalist approach. During our 20+ years experience, we have gathered together a team of World Class Experts. These high caliber individuals have decades of experience working together to deliver robust, high quality solutions.</p>
+					<h1>About the Real Scorpion</h1>
+					<p>Scorpion is a Business Solution Provider utilizing a specialist rather than generalist approach. During our 20+ years experience, we have gathered together a team of World Class Experts. These high caliber individuals have decades of experience working together to deliver robust, high quality solutions.</p>
 					<p>Our specialists are experienced in maintaining long term focus while delivering tactical short term solutions to dramatically lower your total cost of ownership (TCO) for the lifetime of your systems. Our core competencies include due diligence, architecture, process, quality assurance and regulatory compliance systems to solve hard IT problems. We have earned the trust of our clients who retain us for years as their strategic partner and trusted adviser in an IT General Counsel role.</p>
 				</div>
 				<div class="robot-about">
@@ -90,10 +90,14 @@
 				<div class="child-content">
 					<div class="row">
 						<h3>We Can Help with any Funded Need, Wish or Problem</h3>
-						<p>There's a lot to learn about Scorpion Computer Services and its history. Before exploring, tell us your interest. There's no obligation at this time but please give us a couple of words on what brings you to Scorpion:</p>
+						<p>There is a lot of information and links here about our press, testimonials and history.  Before your explore, please share with us your interests.  There's no obligation...</p>
 					</div>
 					<div class="row">
 						<form id="home-form" method="post" action="intake-form.php">
+							<div class="form-group">
+								<label for="needs">Please share with us your need</label>
+								<textarea id="message" name="message" class="form-control form-move" rows="3" placeholder="Tell us your need..." required></textarea>
+							</div>
 							<div class="form-group">
 								<label for="name">Name</label>
 								<input id="name" type="text" class="form-control form-move" name="name" placeholder="Name">
@@ -102,11 +106,8 @@
 								<label for="email">Email address</label>
 								<input id="email" type="email" class="form-control form-move" name="email" placeholder="Email">
 							</div>
-							<div class="form-group">
-								<label for="needs">Please share with us your need</label>
-								<textarea id="message" name="message" class="form-control form-move" rows="3" placeholder="Tell us your need..." required></textarea>
-							</div>
-							<p class='text-center'>Do not include any information subject to nondisclosure.</p>
+			
+							<p class='text-center'>Please do not submit propietary or confidential information.</p>
 						  	<div class="form-group text-center">
 						  		<button type="submit" class="btn btn-default">Send</button>
 						  	</div>
@@ -118,7 +119,7 @@
 	</section>
 	<section id="as-seen-on">
 		<div class="container header text-center">
-			<h2>As Seen On</h2>
+			<h2>Press Coverage</h2>
 		</div>
 		<div class="press">
 			<div class="row">
@@ -154,56 +155,6 @@
 						<li>We drove compliance risk to zero and passed SAS70 audits 100%.</li>
 						<li>We achieved savings of $52 million per year through automation frameworks.</li>
 					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="what-we-do">
-		<div class="container header text-center">
-			<h2>What We Do</h2>
-			<p>Scorpion Computer Services serves clients with needs in information-technology design and architecture, cyber security and general strategic problem-solving.</p>
-		</div>
-		<div class="row">
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-fighter-jet"></i></span>
-					<h3>Tactical</h3>
-					<p>Rapid solutions to immediate challenges within your company. “Deep Dive” root cause analysis, defect identification and resolution using proprietary tools and solutions.</p>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-crosshairs"></i></span>
-					<h3>Strategic</h3>
-					<p>Longer term solutions ensuring critical decisions start your major initiatives on the right track. Key hire selection. System Architecture & Design.</p>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-line-chart"></i></span>
-					<h3>Emerging</h3>
-					<p>Solutions targeting startups, companies switching direction or entering new territory investors assessing investment opportunities.</p>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-calendar-check-o"></i></span>
-					<h3>Process & Management</h3>
-					<p>The practical application of Quality and Processes disciplines that deliver permanent improvements to the maturity level of your organization.</p>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-balance-scale"></i></span>
-					<h3>Quality & Risk</h3>
-					<p>Rapid problem resolution & stabilization for systems & operations projects turnaround. QA test automation techniques that save over 80% in cost and time.</p>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 item">
-				<div class="inner-item">
-					<span class="icon"><i class="fa fa-pencil-square-o"></i></span>
-					<h3>Implementation</h3>
-					<p>Project execution and ongoing support solutions for your initiatives. Customized, hands on training to ensure successful knowledge transfer to in-house staff.</p>
 				</div>
 			</div>
 		</div>
@@ -271,6 +222,62 @@
 					<a href="#" data-toggle="modal" data-target="#testi8">
 	  					<img class="img-vid" src="./images/testimonials/testimonial-8.jpg" alt="Testimonial" height="100%" width="100%" />
 					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="what-we-do">
+		<div class="container header text-center">
+			<h2>What We Do</h2>
+			<p>Scorpion serves clients with needs in information-technology design and architecture, cyber security and general strategic problem-solving.</p>
+		</div>
+		<div class="row">
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-line-chart"></i></span>
+					<h3>Emerging</h3>
+					<p>Solutions targeting startups, companies switching direction or entering new territory investors assessing investment opportunities.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-fighter-jet"></i></span>
+					<h3>Tactical</h3>
+					<p>Rapid solutions to immediate challenges within your company. “Deep Dive” root cause analysis, defect identification and resolution using proprietary tools and solutions.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-crosshairs"></i></span>
+					<h3>Strategic</h3>
+					<p>System Architecture & Design. Longer term solutions ensuring critical decisions start your major initiatives on the right track. Key hire selection.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-calendar-check-o"></i></span>
+					<h3>Process & Management</h3>
+					<p>The practical application of Quality and Processes disciplines that deliver permanent improvements to the maturity level of your organization.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-balance-scale"></i></span>
+					<h3>Quality & Risk</h3>
+					<p>Rapid problem resolution & stabilization for systems & operations projects turnaround. QA test automation techniques that save over 80% in cost and time.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6 item">
+				<div class="inner-item">
+					<span class="icon"><i class="fa fa-pencil-square-o"></i></span>
+					<h3>Implementation</h3>
+					<p>Project execution and ongoing support solutions for your initiatives. Customized, hands on training to ensure successful knowledge transfer to in-house staff.</p>
+					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 		</div>

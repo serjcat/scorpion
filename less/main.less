@@ -41,6 +41,16 @@ p {
     border-color: #B22E2F;
     color: #fff;
 }
+.btn-secondary {
+    background-color: #337ab7;
+    border-color: #337ab7;
+    color: #FFF;
+    &:hover {
+      color: #FFF;
+      background-color: #B22E2F;
+      border-color: #B22E2F;
+    }
+}
 .well {
     background-color: #E1E7E8;
     border: 1px solid #B2BFC1;
@@ -49,7 +59,11 @@ p {
     font-size: 21px;
     margin: 15px 0;
     padding: 15px 40px;
-    border-radius: 0;
+}
+.btn-small {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px 0;
 }
 .btn-primary-outline {
     border: 2px solid #3397DA;
@@ -304,9 +318,14 @@ footer {
   }
   .inner-item {
     background: #f8f8f8;
-    min-height: 365px;
+    position: relative;
+    min-height: 410px;
     padding: 25px;
     padding-top: 50px;
+  }
+  .btn {
+    position: absolute;
+    bottom: 25px;
   }
 }
 
