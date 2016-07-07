@@ -237,7 +237,7 @@
 					<span class="icon"><i class="fa fa-line-chart"></i></span>
 					<h3>Emerging</h3>
 					<p>Solutions targeting startups, companies switching direction or entering new territory investors assessing investment opportunities.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/it-spend-reduction.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -245,7 +245,7 @@
 					<span class="icon"><i class="fa fa-fighter-jet"></i></span>
 					<h3>Tactical</h3>
 					<p>Rapid solutions to immediate challenges within your company. “Deep Dive” root cause analysis, defect identification and resolution using proprietary tools and solutions.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/it-spend-reduction.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -253,7 +253,7 @@
 					<span class="icon"><i class="fa fa-crosshairs"></i></span>
 					<h3>Strategic</h3>
 					<p>System Architecture & Design. Longer term solutions ensuring critical decisions start your major initiatives on the right track. Key hire selection.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/tech-market.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -261,7 +261,7 @@
 					<span class="icon"><i class="fa fa-calendar-check-o"></i></span>
 					<h3>Process & Management</h3>
 					<p>The practical application of Quality and Processes disciplines that deliver permanent improvements to the maturity level of your organization.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/busi-sys-analy.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -269,7 +269,7 @@
 					<span class="icon"><i class="fa fa-balance-scale"></i></span>
 					<h3>Quality & Risk</h3>
 					<p>Rapid problem resolution & stabilization for systems & operations projects turnaround. QA test automation techniques that save over 80% in cost and time.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/tech-operations.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -277,7 +277,7 @@
 					<span class="icon"><i class="fa fa-pencil-square-o"></i></span>
 					<h3>Implementation</h3>
 					<p>Project execution and ongoing support solutions for your initiatives. Customized, hands on training to ensure successful knowledge transfer to in-house staff.</p>
-					<a href="./whatwedo" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/iss-project-manage.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 		</div>
@@ -319,8 +319,8 @@
 	                </div>
 	                <div id="otherOptions">
 						<label><input id="unfunded" type="radio" name="additionalInfo" value="I have an unfunded need wish or problem"> I have an unfunded need wish or problem</label>
+						<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a paid speaker for my company, school or conference</label>
 						<label><input id="workScorpion" type="radio" name="additionalInfo" value="I want to work for Scorpion"> I want to work for Scorpion</label>
-						<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a speaker for my company, school or conference</label>
 					</div>
                   </div>
 				  <div class="form-group">

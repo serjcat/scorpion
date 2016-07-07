@@ -16,6 +16,15 @@
 			</div>
 		</div>
 		<div>
+			<div class="row">
+				<div class="col-lg-8 col-lg-push-2">
+					<h3>Sample Team Members</h3>
+					<p>There are too many members of Scorpion to list them all here, but clicking on the profiles below will provide some sample bio's of the typical caliber of Scorpion consultants.</p>
+					<p>Scorpion Computer Services Team Members collectively have the experience listed in the numbers above.</p>
+					<p>We would like to introduce you to some of our individual specialists to see where this experience comes from and to get a sense of the caliber of these hands on experts.</p>
+					<p>Our strength is our people and how well they work together.</p>
+				</div>
+			</div>
 			<div class="row text-center">
 				<div class="col-lg-4 text-center">
 					<div class="team">

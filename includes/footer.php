@@ -16,6 +16,7 @@
 </div>
 <nav id="cd-lateral-nav">
 	<ul class="cd-navigation cd-single-item-wrapper">
+		<li><a href="./index">Home</a></li>
 		<li><a href="./about">About</a></li>
 		<li><a href="./press-toc">Press</a></li>
 		<li><a href="./testimonials">Testimonials</a></li>
