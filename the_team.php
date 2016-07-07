@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | The Team</title>
+	<title>Scorpion | The Team</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -12,7 +12,7 @@
 	<section id="content">
 		<div class="hero">
 			<div class="container header text-center">
-				<h2>Scorpion Computer Services</h2>
+				<h2>Scorpion</h2>
 			</div>
 		</div>
 		<div>

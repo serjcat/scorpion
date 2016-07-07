@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Join Scorpion</title>
+	<title>Scorpion | Join Scorpion</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">

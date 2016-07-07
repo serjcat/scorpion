@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion</title>
 	<link href="css/styles.css" rel="stylesheet">
 </head>
 <body class="other">
@@ -20,7 +20,7 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			      </button>
-			      <a class="navbar-brand" href="./index.html"><img src="./images/logo.png" width="246" alt="Scorpion Computer Services" /></a>
+			      <a class="navbar-brand" href="./index.html"><img src="./images/logo.png" width="246" alt="Scorpion" /></a>
 			    </div>
 
 			    <!-- Collect the nav links, forms, and other content for toggling -->
@@ -44,7 +44,7 @@
 	<section id="content">
 		<div class="hero">
 			<div class="container header text-center">
-				<h2>The Scorpion Computer Services Difference:</h2>
+				<h2>The Scorpion Difference:</h2>
 			</div>
 		</div>
 		<div class="container">

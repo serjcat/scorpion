@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | How We Work</title>
+	<title>Scorpion  | How We Work</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -36,7 +36,7 @@
 				</div>
 				<div class="col-lg-8 tab-content">
 					<div role="tabpanel" class="tab-pane active" id="client">
-						<h3>As a Client… Engaging Scorpion Computer Services</h3>
+						<h3>As a Client… Engaging Scorpion</h3>
 						<p>Our focus is in building a long term relationship with our Clients based on the value we bring and the respect that earns us the position of a Trusted Advisor.</p>
 						<h4>What is our approach?</h4>
 						<p>There are many ways we help firms beyond those listed in the "What we do" section. Talk to us and as we learn your business we will share possibilities, technologies and techniques that many of our clients previously were not aware of.</p>
@@ -51,10 +51,10 @@
 					</div>
 					<div role="tabpanel" class="tab-pane" id="startup">
 						<h3>As a Startup... Incubation, Tech Advisory Board, Board of Directors</h3> 
-						<p>Key partners of Scorpion Computer Services have served as Chief Executive Officers, Members of the Tech Advisory Board and Members of the Board of Directors for various technology-driven businesses during incubation and emergent phases. This wealth of hands-on experience allows our partners to help guide companies skillfully through start-up and emergent phases, determining what business models, patentable technology, tools and techniques, and key personnel are required at various phases. We can also assess the effectiveness of web-site marketing, identifying key words that optimize hits.
+						<p>Key partners of Scorpion have served as Chief Executive Officers, Members of the Tech Advisory Board and Members of the Board of Directors for various technology-driven businesses during incubation and emergent phases. This wealth of hands-on experience allows our partners to help guide companies skillfully through start-up and emergent phases, determining what business models, patentable technology, tools and techniques, and key personnel are required at various phases. We can also assess the effectiveness of web-site marketing, identifying key words that optimize hits.
 						Do you have a great business concept or proposal AND you have the funding in place but need help with the execution?</p>
 						<p><a href="mailto:usa@scorpioncomputerservices.com" class="btn btn-primary">Submit Business Plan</a></p> 
-						<small>Please note: We do not sign nondisclosure or confidentiality agreements in connection with submissions of business plans, proposals or resumes. You should only include information which you deem to be non-confidential. By submitting information to Scorpion Computer Services, you agree to the foregoing terms, and our terms of use. Our reputation depends on our professionalism and our ability to maintain the trust of those with whom we work. In appropriate circumstances, we will sign a reasonable non-disclosure agreement when we reach a point of mutual interest in moving forward.</small>
+						<small>Please note: We do not sign nondisclosure or confidentiality agreements in connection with submissions of business plans, proposals or resumes. You should only include information which you deem to be non-confidential. By submitting information to Scorpion, you agree to the foregoing terms, and our terms of use. Our reputation depends on our professionalism and our ability to maintain the trust of those with whom we work. In appropriate circumstances, we will sign a reasonable non-disclosure agreement when we reach a point of mutual interest in moving forward.</small>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="consultants" />
 						<h3>As a Consultant… Our Portfolio of Affiliates</h3>
@@ -69,12 +69,12 @@
 					</div>
 					<div role="tabpanel" class="tab-pane" id="public">
 						<h3>For Public Speaking Requests...</h3>
-						<p>Scorpion Computer Services Experts are available on request to speak, answer questions and participate in panel discussions on any of our practice areas for corporate events or conferences.</p> 
+						<p>Scorpion Experts are available on request to speak, answer questions and participate in panel discussions on any of our practice areas for corporate events or conferences.</p> 
 						<p><a href="./contactus" class="btn btn-primary">Submit Request</a>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="expert">
 						<h3>For Expert Witness Services...</h3>
-						<p>Scorpion Computer Services members have the ability to serve as expert witnesses regarding any of our practice areas. We can build a model to defend or explain the damages and risks of the case. We can explain to the court how these issues could have been reasonably mitigated or eliminated through effective due diligence, best practices, design, security and operational procedures. We can quantify the losses to the business for the case.</p> 
+						<p>Scorpion members have the ability to serve as expert witnesses regarding any of our practice areas. We can build a model to defend or explain the damages and risks of the case. We can explain to the court how these issues could have been reasonably mitigated or eliminated through effective due diligence, best practices, design, security and operational procedures. We can quantify the losses to the business for the case.</p> 
 						<p><a href="./contactus" class="btn btn-primary">Submit Request</a>
 					</div>
 				</div>

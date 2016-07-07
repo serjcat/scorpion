@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="Walter O'Brien, Scorpion, Scorpion Computer Services, CBS, Drama, ConciergeUp" />
 	<meta name="description" content="Think Tank for Hire">
-	<title>Scorpion Computer Services</title>
+	<title>Scorpion</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">

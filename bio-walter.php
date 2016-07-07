@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Walter</title>
+	<title>Scorpion | Walter</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -93,7 +93,7 @@
 
 			      <div class="bs-callout bs-callout-danger">
 			        <h4>Bio Summary:</h4>
-			        <p>Walter  (hacker name: "Scorpion") was designated a child prodigy after scoring 197 on an IQ test at age nine. At 13 years old, he started his company Scorpion Computer Services at first to service local businesses and financial institutions and navigate their introduction to analytics, computerization, and the internet.</p>
+			        <p>Walter  (hacker name: "Scorpion") was designated a child prodigy after scoring 197 on an IQ test at age nine. At 13 years old, he started his company Scorpion at first to service local businesses and financial institutions and navigate their introduction to analytics, computerization, and the internet.</p>
 					<p>At 16,  ranked first in Irish national high-speed computer problem solving competitions. At 18, he competed in the World Olympics in Informatics and has ranked as high as the sixth-fastest programmer in the world. He received a Bachelor of Science degree in Computer Science and Artificial Intelligence with honors from Sussex University in the United Kingdom.</p>
 					<p>The U.S. Department of Homeland Security certified Scorpion as being of National Interest to the United States economy and granted him an "Extraordinary Ability" EB 1-1 Visa (also granted to Albert Einstein and Winston Churchill).  is a frequent public speaker for IEEE (Institute of Electrical and Electronics Engineers) and teaches as a mentor with the Founder Institute, the world's largest idea-stage incubator.  has worked with the world's largest mutual fund company, Fujitsu, Microsoft-Trados, Oracle Corporation, Baltimore Technologies, and Critical Path. Walter serves as chairman or board member for Houston Technology Center, Strike Force Solutions, Talentorum Alliance, Lawloop and previously has served on the boards of American Environmental Energy, Starglobe and Toin Corp. In addition,  is frequently called on by news media, the government, and the federal court system for his technology expertise.</p>
 			      </div> 

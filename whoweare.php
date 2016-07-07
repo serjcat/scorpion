@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scorpion Computer Services | Who We Are</title>
+	<title>Scorpion | Who We Are</title>
 	<?php include 'includes/head-includes.php'; ?>
 </head>
 <body class="other">
@@ -98,7 +98,7 @@
 		            	</li>
 		            </ul> 
 		            <h3>Why is Scorpion truly different from other consulting firms?</h3>
-		            <a href="./scorpion-difference">Click Here to View The Scorpion Computer Services Difference</a>
+		            <a href="./scorpion-difference">Click Here to View The Scorpion  Difference</a>
 		        </div>
 	        </div>
 	    </div>
