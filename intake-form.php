@@ -19,13 +19,13 @@ include 'includes/smtp.php';
 $mail->From = $email;
 
 // below we want to set the email address we will be sending our email to.
-$mail->AddAddress("brianandgarcia@gmail.com", "Scorpion Computer Services");
+$mail->AddAddress("brianandgarcia@gmail.com", "Scorpion");
 // set word wrap to 50 characters
 $mail->WordWrap = 50;
 // set email format to HTML
 $mail->IsHTML(true);
 
-$mail->Subject = "SCS: New Lead";
+$mail->Subject = "SCS: New Lead from $name";
 
 // $message is the user's message they typed in
 // on our contact us page. We set this variable at
@@ -49,8 +49,8 @@ if(!$mail->Send())
 }
 
 $mail = new PHPMailer();
-$mail->From = 'csforms@myscorpiontest.com';
-$mail->FromName = 'Scorpion Computer Services';
+$mail->From = 'scsforms@myscorpiontest.com';
+$mail->FromName = 'Scorpion';
 
 // below we want to set the email address we will be sending our email to.
 $mail->AddAddress($email);
@@ -68,6 +68,7 @@ $mail->AltBody = $email;
 
 $mail->Send();
 
-header("Location: thank_you");
+header("Location: thank_you"); 
+
 
 ?>

@@ -147,78 +147,101 @@ $(window).bind('scroll resize', function(){
 	navbar_visibility();
 });
 
-function formAjax() {
-	// Get the form.
-	var form = $('#home-form');
 
-	// Get the messages div.
+function sendForm() {
+
+	var fakeForm = $('#home-form');
+	var actualForm = $('#popup-form');
 	var formMessages = $('#form-messages');
-
-	// Set up an event listener for the contact form.
-	$(form).submit(function(e) {
-		// Stop the browser from submitting the form.
+	
+	$(fakeForm).submit(function(e) {
 		e.preventDefault();
- 
-		// Serialize the form data.
-		var formData = $(form).serialize();
 
-		// Submit the form using AJAX.
-		$.ajax({
-			type: 'POST',
-			url: $(form).attr('action'),
-			data: formData
-		})
-		.done(function() {
-			// Make sure that the formMessages div has the 'success' class.
-			$(formMessages).removeClass('error');
-			$(formMessages).addClass('success');
+		fakeForm.validate();
 
-			// Set the message text.
-			//$(formMessages).text(response);
+		//first we must check that the fake form is valid to proceed to the pop-up this uses jquery validation plugin
+		if( fakeForm.valid() ) {
+			// Pop-up Second Form
+			$("#sendForm").modal();
+		}
 
-			if( form.valid() ) {
-				// Pop-up Second Form
-				$("#sendForm").modal();
+		//set values into variables from fakeform
+		var name = $('#name').val();
+		var email = $('#email').val();
+		var messHid = $('#message').val();
+		$("#nameHidden").attr("value", name);
+		$("#emailHidden").attr("value", email);
+		$("#messageHidden").attr("value", messHid);
 
-			}
+	});//end submit function
 
-			//set values into variables
-			var name = $('#name').val();
-			var email = $('#email').val();
-			var messHid = $('#message').val();
-			$("#nameHidden").attr("value", name);
-			$("#emailHidden").attr("value", email);
-			$("#messageHidden").attr("value", messHid);
-			
-		})
-		.fail(function(data) {
-			// Make sure that the formMessages div has the 'error' class.
-			$(formMessages).removeClass('success');
-			$(formMessages).addClass('error');
+	// $(actualForm).submit(function(e) {
+	// 	e.preventDefault();
 
-			// Set the message text.
-			if (data.responseText !== '') {
-				$(formMessages).text(data.responseText);
-			} else {
-				$(formMessages).text('Oops! An error occured and your message could not be sent.');
-			}
+	// 	//check options 
+	// 	$('#fundedContainer').change(function () {
+	// 	    $("#fundedNeed").prop("checked", true);
+	// 	});
+	// 	$('#fundedNeed').change(function () {
+	// 		$("#fundedDefault").prop("checked", true);
+	// 	});
 
-		});
-	});
+	// 	$('#otherOptions').change(function () {
+	// 		$(".fundedOption").prop("checked", false);
+	// 	});
+
+	// 	//serialize data
+	// 	var formData = $(actualForm).serialize();
+
+	// 	//form must be valid before sending
+
+	// 	actualForm.validate();
+	// 	if( actualForm.valid() ) {
+	// 		// Submit the form using AJAX.
+	// 		$.ajax({
+	// 			type: 'POST',
+	// 			url: $(actualForm).attr('action'),
+	// 			data: formData
+	// 		})
+	// 		.done(function(response) {
+	// 			// Make sure that the formMessages div has the 'success' class.
+	// 			$(formMessages).removeClass('error');
+	// 			$(formMessages).addClass('success');
+
+	// 			// Set the message text.
+	// 			$(formMessages).text(response);
+
+	// 			// Hide the form
+	// 			$('#popup-form .form-group, #popup-form button').hide();
+
+	// 		})//end done
+	// 		.fail(function(data) {
+	// 			// Make sure that the formMessages div has the 'error' class.
+	// 			$(formMessages).removeClass('success');
+	// 			$(formMessages).addClass('error');
+
+	// 			// Set the message text.
+	// 			if (data.responseText !== '') {
+	// 				$(formMessages).text(data.responseText);
+	// 			} else {
+	// 				$(formMessages).text('Oops! An error occured and your message could not be sent.');
+	// 			}
+	// 		});//end fail
+	// 	}//end if
+
+	// });
+
+
+	$('#sendForm').on('hidden.bs.modal', function () {
+		actualForm.submit();
+		console.log("I closed the form but send anyway");
+	}); 
+
+	
+
 }
+sendForm();
 
-formAjax();
-
-$('#fundedContainer').change(function () {
-    $("#fundedNeed").prop("checked", true);
-});
-$('#fundedNeed').change(function () {
-	$("#fundedDefault").prop("checked", true);
-});
-
-$('#otherOptions').change(function () {
-	$(".fundedOption").prop("checked", false);
-});
 
 
 }); // end document ready

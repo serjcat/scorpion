@@ -93,7 +93,7 @@
 						<p>There is a lot of information and links here about our press, testimonials and history.  Before your explore, please share with us your interests.  There's no obligation...</p>
 					</div>
 					<div class="row">
-						<form id="home-form" method="post" action="intake-form.php">
+						<form id="home-form">
 							<div class="form-group">
 								<label for="needs">Please share with us your need</label>
 								<textarea id="message" name="message" class="form-control form-move" rows="3" placeholder="Tell us your need..." required></textarea>
@@ -301,8 +301,8 @@
             </div>
             <!-- Modal Body -->
             <div class="modal-body">
-                <div class="alert alert-success" role="alert">Your message has been sent.</div>
-                <form id="popup-form" role="form" action="intake-form.php">
+                <div id="form-messages"></div>
+                <form id="popup-form" role="form" method="post" action="intake-form.php">
 				<!-- This fields are taken from intake form but hidden -->
 				<input id="nameHidden" type="hidden" class="form-control" name="name">
 				<input id="emailHidden" type="hidden" class="form-control" name="email">
