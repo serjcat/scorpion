@@ -35,8 +35,15 @@
 			  </ul>
 			</div>
 			<div class="col-lg-9 tab-content">
+				<div class="text-center">
+					<h2>Customer Testimonial Highlights</h2>
+			    	<div class="youtube-container">
+			   			<div class="youtube-player" data-id="OFX-FVPton8"></div>
+					</div>
+				</div>
 				<div role="tabpanel" class="tab-pane active" id="vidtestimonials">
-					<h2>Customer Testimonial Videos</h2>
+					<hr>
+					<h3>Customer Testimonial Videos</h3><br>
 					<div class="row">
 						<div class="col-sm-2 col-xs-6">
 							<a href="#" data-toggle="modal" data-target="#highlights1">

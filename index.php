@@ -83,6 +83,16 @@
 						<div>Modernize your business processes to increase profits</div>
 						<div>Research a medical issue, missing family member or your business's</div>
 						<div>Invent, patent and sell a new product idea you've had</div>
+						<div>I need help with a financial, medical or legal issue</div>
+						<div>I need help with my busy life in general</div>
+						<div>I need help improving or updating my existing business</div>
+						<div>I need help creating a new company or product</div>
+						<div>I need help developing a new idea</div>
+						<div>I need help because my CTO/IT dept just quit</div>
+						<div>I need help with marketing or PR</div>
+						<div>I need help with planning for the future</div>
+						<div>I need help to separate from my partner</div>
+						<div>I need help retiring my parents</div>
 					</div>
 				</div>
 			</div>
@@ -124,17 +134,97 @@
 		<div class="press">
 			<div class="row">
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-toc"><img src="./images/logos/inquistir.png" width="150" alt="Inquistir" /></a>
+					<a href="./press-toc"><img src="./images/logos/bloomberg.png" width="170" alt="Bloomberg" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-toc"><img src="./images/logos/entrepreneur.png" width="150" alt="Entrepreneur" /></a>
+					<a href="./press-toc"><img src="./images/logos/information-week.png" width="208" alt="InformationWeek" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
 					<a href="./press-toc"><img src="./images/logos/cnbc.png" width="100" alt="CNBC" /></a>
 				</div>
 				<div class="col-sm-3 text-center logo">
-					<a href="./press-toc"><img src="./images/logos/houston-chronicle.png"  width="150" alt="Houston Chronicle" /></a>
+					<a href="./press-toc"><img src="./images/logos/fortune.png" width="160" alt="Fortune" /></a>
 				</div>
+			</div>
+		</div>
+	</section>
+	<section id="recent-press">
+		<div class="container-fluid">
+			<h2>Recent Press</h2>
+			<div class="row recentpress-home">
+
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://www.scorpioncomputerservices.com/press_160613.html"> <img src="./images/press/Bloobmberg_Thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://www.scorpioncomputerservices.com/press_160613.html">Bloomberg Scorpion Computer Services, Inc. and Scilent Networks Announce Strategic Partnership</a></h3>
+                        <p class="date">June 13, 2016</p>
+						<a href="http://www.scorpioncomputerservices.com/press_160613.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://scorpioncomputerservices.com/press_160526.html"> <img src="./images/press/BallState_Thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://scorpioncomputerservices.com/press_160526.html"> <i>Ball State Daily</i><br> 'Scorpion' TV inspiration talks artificial intelligence, robots</a></h3>
+                        <p class="date">May 26, 2016</p>
+						<a href="http://www.scorpioncomputerservices.com/press_160613.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://scorpioncomputerservices.com/press_160520.html"> <img src="./images/press/biz_journal_thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://scorpioncomputerservices.com/press_160520.html">The Business Journals Walter O'Brien Tapped as Guest Speaker for California State Science Fair</a></h3>
+                        <p class="date">May 20, 2016</p>
+						<a href="http://scorpioncomputerservices.com/press_160520.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://scorpioncomputerservices.com/press_160520-2.html"> <img src="./images/press/Star_Thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://scorpioncomputerservices.com/press_160520-2.html">The Star Press Walter O'Brien and Protecting America from Cyber Attack</a></h3>
+                        <p class="date">May 20, 2016</p>
+						<a href="http://scorpioncomputerservices.com/press_160520.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://scorpioncomputerservices.com/press_160518.html"> <img src="./images/press/press_151025_thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://scorpioncomputerservices.com/press_160518.html">Information Week Walter is quoted in "12 Ways AI Will Disrupt Your C-Suite"</a></h3>
+                        <p class="date">May 18, 2016</p>
+						<a href="http://scorpioncomputerservices.com/press_160518.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
+				<!-- Start Item -->
+				<div class="row">
+                    <div class="col-md-3">
+                    	<a href="http://scorpioncomputerservices.com/press_151005.html"> <img src="./images/press/PCWorld_Thumbnail.jpg" width="100%" alt="" class="img-responsive"></a> 
+                    </div>
+                    <div class="col-md-9">
+                        <h3><a href="http://scorpioncomputerservices.com/press_151005.html">PC World Infamy and alias: Walter O'Brien and other famous hackers with their online handles</a></h3>
+                        <p class="date">Oct 5, 2016</p>
+						<a href="http://scorpioncomputerservices.com/press_151005.html" class="btn btn-secondary btn-small">Read More</a>
+                    </div>
+                </div>
+				<!-- End Item -->
 			</div>
 		</div>
 	</section>
@@ -151,7 +241,7 @@
 					<ul>
 						<li>We saved $43 billion in opportunity risks over a five-year period.</li>
 						<li>We achieved a 6000% increase in transaction processing speed.</li>
-						<li>We invented an efficiency engine that performs 250 human years of work every 1.5 hrs with over 99% improvement over human error.</li>
+						<li>We invented an efficiency engine that performs 250 human years of work every 1.5 hours with greater than 99% improvement over human error.</li>
 						<li>We drove compliance risk to zero and passed SAS70 audits 100%.</li>
 						<li>We achieved savings of $52 million per year through automation frameworks.</li>
 					</ul>
@@ -237,7 +327,7 @@
 					<span class="icon"><i class="fa fa-line-chart"></i></span>
 					<h3>Emerging</h3>
 					<p>Solutions targeting startups, companies switching direction or entering new territory investors assessing investment opportunities.</p>
-					<a href="http://www.scorpioncomputerservices.com/it-spend-reduction.html" class="btn btn-secondary btn-small">Learn More</a>
+					<a href="http://www.scorpioncomputerservices.com/ecs-tech-market.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 item">
@@ -260,7 +350,7 @@
 				<div class="inner-item">
 					<span class="icon"><i class="fa fa-calendar-check-o"></i></span>
 					<h3>Process & Management</h3>
-					<p>The practical application of Quality and Processes disciplines that deliver permanent improvements to the maturity level of your organization.</p>
+					<p>The practical application of quality & processes disciplines that deliver permanent improvements to the maturity level of your organization.</p>
 					<a href="http://www.scorpioncomputerservices.com/busi-sys-analy.html" class="btn btn-secondary btn-small">Learn More</a>
 				</div>
 			</div>
@@ -304,28 +394,37 @@
                 <div id="form-messages"></div>
                 <form id="popup-form" role="form" method="post" action="intake-form.php">
 				<!-- This fields are taken from intake form but hidden -->
-				<input id="nameHidden" type="hidden" class="form-control" name="name">
-				<input id="emailHidden" type="hidden" class="form-control" name="email">
-				<textarea type="hidden" id="messageHidden" name="message" class="form-control" style="display: none"></textarea>
-
+				<input id="nameHidden" type="hidden" name="name">
+				<input id="emailHidden" type="hidden" name="email">
+				<input type="hidden" id="messageHidden" name="message">
                   <div class="form-group">
+                  	<strong>Level of funding available:</strong>
+                  	<div class="otherOptions">
+						<label><input id="unfunded" type="radio" name="additionalInfo" value="Unfunded (Less than $5k). I believe in this project and hope to raise funds some time in the future."> Unfunded (Less than $5k). I believe in this project and hope to raise funds some time in the future.</label>
+					</div>
                   	<div id="fundedContainer">
-	                    <label><input id="fundedNeed" type="radio" name="additionalInfo" value="I have a funded need, wish or problem"> I have a funded need, wish or problem</label>
+	                    <label><input id="fundedNeed" type="radio" name="additionalInfo" value="I have a funded need, wish or problem"> Funded ($5k and up). I have the following amount of funds available now for this entire project:</label>
 	                    <div class="inline-form">
 	                    	<label><input id="fundedDefault" class="fundedOption" type="radio" name="fundedOption" value="$5k - $100k"> $5k - $100k</label>
 	                    	<label><input class="fundedOption" type="radio" name="fundedOption" value="$101k - $500k"> $101k - $500k</label>
 	                    	<label><input class="fundedOption" type="radio" name="fundedOption" value="More than $500k"> More than $500k</label>
 	                    </div>
 	                </div>
-	                <div id="otherOptions">
-						<label><input id="unfunded" type="radio" name="additionalInfo" value="I have an unfunded need wish or problem"> I have an unfunded need wish or problem</label>
+	                <hr>
+	                <div class="otherOptions">
 						<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a paid speaker for my company, school or conference</label>
 						<label><input id="workScorpion" type="radio" name="additionalInfo" value="I want to work for Scorpion"> I want to work for Scorpion</label>
 					</div>
                   </div>
-				  <div class="form-group">
+                  <hr>
+				  <div class="form-group row">
+				  	<div class="col-md-6">
 					  <label for="phone">Phone:</label>
 					  <input type="text" class="form-control" id="phone" name="phone">
+					</div>
+					<div class="col-md-6">
+						<img src="./images/concierge-up.png" alt="Conceirge Up" class="concierge" />
+					</div>
 				  </div>
                   <p class="text-center">
                   	<button type="submit" class="btn btn-primary">Submit</button>
@@ -429,6 +528,15 @@ $(function(){
 		autoplay: true,
 		items: 1,
 		loop: true
+	});
+	$(".recentpress-home").owlCarousel({
+		autoplay: true,
+		items: 3,
+		loop: false,
+		slideSpeed: 400,
+		itemsDesktop: false,
+		itemsMobile: 1,
+		itemsTablet: 2
 	});
 });
 </script>

@@ -23,6 +23,10 @@ $('form').each(function() {
 	        additionalInfo: {
 	        	required: true
 	        },
+	        message: {
+	        	required: true,
+	        	minlength: 15
+	        },
 	        resume: {
 	        	required: true,
 	        	accept: "application/pdf, application/msword, text/plain, application/vnd.openxmlformats-officedocument.wordprocessingml.document"
@@ -40,6 +44,9 @@ $('form').each(function() {
 	    messages: {
 	    	resume: {
 	    		accept: "Please attach a valid format. PDF & .DOC are the only accepted formats."
+	    	},
+	    	message: {
+	    		minlength: "Please provide a more detailed description."
 	    	}
 	    }
 	});
@@ -153,7 +160,9 @@ function sendForm() {
 	var fakeForm = $('#home-form');
 	var actualForm = $('#popup-form');
 	var formMessages = $('#form-messages');
-	
+	var formData = $(actualForm).serialize();
+
+
 	$(fakeForm).submit(function(e) {
 		e.preventDefault();
 
@@ -169,80 +178,43 @@ function sendForm() {
 		var name = $('#name').val();
 		var email = $('#email').val();
 		var messHid = $('#message').val();
+
 		$("#nameHidden").attr("value", name);
 		$("#emailHidden").attr("value", email);
 		$("#messageHidden").attr("value", messHid);
 
 	});//end submit function
 
-	// $(actualForm).submit(function(e) {
-	// 	e.preventDefault();
+	//check options 
+	$('#fundedContainer').change(function () {
+	    $("#fundedNeed").prop("checked", true);
+	});
+	$('#fundedNeed').change(function () {
+		$("#fundedDefault").prop("checked", true);
+	});
+	$('.otherOptions').change(function () {
+		$(".fundedOption").prop("checked", false);
+	});
 
-	// 	//check options 
-	// 	$('#fundedContainer').change(function () {
-	// 	    $("#fundedNeed").prop("checked", true);
-	// 	});
-	// 	$('#fundedNeed').change(function () {
-	// 		$("#fundedDefault").prop("checked", true);
-	// 	});
-
-	// 	$('#otherOptions').change(function () {
-	// 		$(".fundedOption").prop("checked", false);
-	// 	});
-
-	// 	//serialize data
-	// 	var formData = $(actualForm).serialize();
-
-	// 	//form must be valid before sending
-
-	// 	actualForm.validate();
-	// 	if( actualForm.valid() ) {
-	// 		// Submit the form using AJAX.
-	// 		$.ajax({
-	// 			type: 'POST',
-	// 			url: $(actualForm).attr('action'),
-	// 			data: formData
-	// 		})
-	// 		.done(function(response) {
-	// 			// Make sure that the formMessages div has the 'success' class.
-	// 			$(formMessages).removeClass('error');
-	// 			$(formMessages).addClass('success');
-
-	// 			// Set the message text.
-	// 			$(formMessages).text(response);
-
-	// 			// Hide the form
-	// 			$('#popup-form .form-group, #popup-form button').hide();
-
-	// 		})//end done
-	// 		.fail(function(data) {
-	// 			// Make sure that the formMessages div has the 'error' class.
-	// 			$(formMessages).removeClass('success');
-	// 			$(formMessages).addClass('error');
-
-	// 			// Set the message text.
-	// 			if (data.responseText !== '') {
-	// 				$(formMessages).text(data.responseText);
-	// 			} else {
-	// 				$(formMessages).text('Oops! An error occured and your message could not be sent.');
-	// 			}
-	// 		});//end fail
-	// 	}//end if
-
-	// });
-
-
+	//if modal is closed send form
 	$('#sendForm').on('hidden.bs.modal', function () {
 		actualForm.submit();
-		console.log("I closed the form but send anyway");
 	}); 
 
-	
+	//if window is closed send form data anyway
+	$(window).on('beforeunload', function() {
+		$.ajax({
+				type: 'POST',
+				url: $(actualForm).attr('action'),
+				data: formData,
+				async: false
+		});
+		alert('something');
+	});
 
 }
+
 sendForm();
-
-
 
 }); // end document ready
 
@@ -251,7 +223,7 @@ sendForm();
 //
 $('.marquee').marquee({
     //speed in milliseconds of the marquee
-    duration: 25000,
+    duration: 36000,
     //gap in pixels between the tickers
     gap: 100,
     //time in milliseconds before the marquee will start animating

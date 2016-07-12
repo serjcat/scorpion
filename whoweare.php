@@ -12,7 +12,7 @@
 	<section id="content" class="whoweare" style="padding-bottom: 0">
 		<div class="hero nobottom-margin">
 			<div class="container header text-center">
-				<h2>Who We Are</h2>
+				<h2>Scorpion</h2>
 			</div>
 		</div>
 	    <div class="container-flex">

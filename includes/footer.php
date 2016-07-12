@@ -73,7 +73,7 @@
 		<div class="row contact-info">
 			<div class="col-lg-4">
 				<strong>Call Us:</strong>
-				<span><a href="#">1-(818) 237-9085</a></span>
+				<span><a href="#">1.818.237.9085</a></span>
 			</div>
 			<div class="col-lg-4">
 				<strong>Send an email:</strong>

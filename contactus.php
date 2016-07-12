@@ -82,7 +82,7 @@
 	 		</div><br>
 	 		<div class="col-lg-12">
 	 			<p class="text-center">
-	 				Email: <a href="mailto:inquiry@scorpioncomputerservices.com">Scorpion Inquiry</a><br>Phone: (818) 237-9085
+	 				Email: <a href="mailto:inquiry@scorpioncomputerservices.com">Scorpion Inquiry</a><br>Phone: 1.818.237.9085
 	 			</p>
 			</div>
 	 	</div>

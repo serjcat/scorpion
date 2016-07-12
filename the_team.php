@@ -197,7 +197,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row text-center">
 				<div class="col-lg-4 col-md-6">
 					<div class="team">
 						<p class="text-center"><a href="./bio-specialist-8"><img src="./images/team/specialist.jpg" alt="Specialist-8" /></a></p>

@@ -407,7 +407,7 @@
                     </h2>
                   </div>
                   <div class="col-lg-3">
-                    <img width="388" class="img-responsive" src="./images/press/family-office-association.jpg" alt="CAA's">
+                    <img width="388" class="img-responsive" src="./images/press/CAA-logo.jpg" alt="CAA's">
                   </div>
                   <div class="col-lg-9">
                     <p>Creative Artists Agency (CAA), founded in 1975, is the world's leading talent and sports agency has just accepted Walter O'Brien, CEO of Scorpion as one of their prestigious speakers. Walter joins the ranks of the world's foremost minds that include Sir Richard Branson, Donald Trump, Al Pacino, Morgan Freeman, Ashton Kutcher, James Cameron, Ray Kurzweil and Oliver Stone...</p>
@@ -422,7 +422,7 @@
                     </h2>
                   </div>
                   <div class="col-lg-3">
-                    <img width="388" class="img-responsive" src="./images/press/family-office-association-03.jpg" alt="LIDO">
+                    <img width="388" class="img-responsive" src="./images/press/family-office-association-02.jpg" alt="LIDO">
                   </div>
                   <div class="col-lg-9">
                     <p>Walter O'Brien launches ConciergeUp.com to over 400 family offices and professional investors with an average Net Worth over $100m...</p>
@@ -437,7 +437,7 @@
                     </h2>
                   </div>
                   <div class="col-lg-3">
-                    <img width="388" class="img-responsive" src="./images/press/aeei2.jpg" alt="FOA Global Wealth Summit">
+                    <img width="388" class="img-responsive" src="./images/press/family-office-association-03.jpg" alt="FOA Global Wealth Summit">
                   </div>
                   <div class="col-lg-9">
                     <p>The Family Office Association featured an unprecedented roster of keynote speakers including Scorpion's Walter O'Brien, four-star General Wesley Clark, and former director of the CIA James Woolsey to over 200 family office's and professional investors with a Net Worth over $100m...</p>
@@ -452,7 +452,7 @@
                     </h2>
                   </div>
                   <div class="col-lg-3">
-                    <img width="388" class="img-responsive" src="./images/press/promo-1.png" alt="Scorpion Promo 1">
+                    <img width="388" class="img-responsive" src="./images/press/aeei2.jpg" alt="Scorpion Promo 1">
                   </div>
                   <div class="col-lg-9">
                     <p>American Environmental Energy, Inc. (Pink Sheets:AEEI) is pleased to announce the appointment of Mr. Walter O'Brien to the Board of Directors. Mr. O'Brien joins the board with experience in capital markets and regulatory compliance that will strengthen the existing team and add shareholder value as the company enters its phase of planned business operations with income generating projects...</p>
