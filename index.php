@@ -397,6 +397,9 @@
 				<input id="nameHidden" type="hidden" name="name">
 				<input id="emailHidden" type="hidden" name="email">
 				<input type="hidden" id="messageHidden" name="message">
+				  <p class="text-center">
+				  	<img src="./images/concierge-up.png" alt="Concierge Up" class="concierge" width="300" />
+				  </p>
                   <div class="form-group">
                   	<strong>Level of funding available:</strong>
                   	<div class="otherOptions">
@@ -412,6 +415,7 @@
 	                </div>
 	                <hr>
 	                <div class="otherOptions">
+	                	<strong>Other Requests:</strong>
 						<label><input id="walterSpeaker" type="radio" name="additionalInfo" value="I want Walter as a speaker for my company, school or conference"> I want Walter as a paid speaker for my company, school or conference</label>
 						<label><input id="workScorpion" type="radio" name="additionalInfo" value="I want to work for Scorpion"> I want to work for Scorpion</label>
 					</div>
@@ -421,9 +425,6 @@
 				  	<div class="col-md-6">
 					  <label for="phone">Phone:</label>
 					  <input type="text" class="form-control" id="phone" name="phone">
-					</div>
-					<div class="col-md-6">
-						<img src="./images/concierge-up.png" alt="Conceirge Up" class="concierge" />
 					</div>
 				  </div>
                   <p class="text-center">

@@ -62,7 +62,7 @@ $mail->IsHTML(true);
 
 $mail->Subject = "We Will Be In Touch!";
 
-$message = "Thank you for contacting Scorpion Computer Services. One of our specialists will contact you if more information is required.";
+$message = "Thank you for contacting Scorpion. One of our specialists will contact you if more information is required.";
 $mail->Body = $message;
 $mail->AltBody = $email;
 
