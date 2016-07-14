@@ -558,7 +558,8 @@ section.testimonials {
 }
 .other {
   .hero {
-    background: #37646F;
+    background: #37646F url(../images/hero-default.jpg) no-repeat;
+    background-size: cover;
     height: 150px;
     margin-bottom: 25px;
     margin-top: 60px;
@@ -568,10 +569,12 @@ section.testimonials {
     position: relative;
     padding-top: 15px;
     &:after {
-      background: #A3ABAF;
+      background: #FFF;
+      background: rgba(0,0,0,0.3);
     }
     h2 {
       color: #FFF;
+      font-weight: normal;
     }
   }
   .ticker {

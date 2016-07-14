@@ -355,6 +355,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/hero-default.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45501,
+		"inputAbbreviatedPath": "\/images\/hero-default.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-default.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

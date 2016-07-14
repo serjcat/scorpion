@@ -92,9 +92,7 @@
   h2 {
     font-size: 2rem;
   }
-  header .nav {
-    display: none;
-  }
+
   .cd-hero-slider {
     h2 {
       font-size: 3rem;
@@ -140,6 +138,15 @@
   #what-we-do {
     .inner-item {
       padding: 20px;
+    }
+  }
+  .nav {
+    &.navbar-right {
+      margin-right: 80px;
+    }
+    li a {
+      font-size: 16px;
+      padding: 10px 11px;
     }
   }
 }
@@ -229,6 +236,9 @@
 
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
+  header .nav {
+    display: none;
+  }
   .cd-hero-slider {
     h2, p {
       max-width: 500px;
