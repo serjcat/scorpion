@@ -108,11 +108,9 @@ var google_remarketing_only = true;
 <script type='text/javascript' src='./js/jquery.js'></script>
 <!-- Bootstrap -->
 <script type='text/javascript' src='./js/bootstrap.min.js'></script>
-<!-- Menu -->
-<script type='text/javascript' src='./js/new-menu/main.min.js'></script>
-<script src="./js/jquery.marquee.min.js"></script>
-<!-- Form Validation -->
-<script src="./js/jquery.validate.js"></script>
-<script src="./js/additional-methods.min.js"></script>
+<!-- Plugins -->
+<script type='text/javascript' src='./js/plugins.js'></script>
 <!-- Your custom scripts -->
 <script type='text/javascript' src='./js/custom.min.js'></script>
+
+

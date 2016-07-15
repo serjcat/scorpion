@@ -58,8 +58,7 @@ jQuery.validator.addMethod("myEmail", function(value, element) {
 
 jQuery.validator.addMethod('phoneRule', function(value) { return (value.match(/^((\+)?[1-9]{1,2})?([-\s\.])?((\(\d{1,4}\))|\d{1,4})(([-\s\.])?[0-9]{1,12}){1,2}(\s*(ext|x)\s*\.?:?\s*([0-9]+))?$/)); }, 'Please enter a valid phone number (Intl format accepted + ext: or x:)');
 
-// start document ready
-$(function(){ 
+
 
 //Smooth scroll on click
 $('a[href*="#"]:not([href="#"])').click(function() {
@@ -117,16 +116,22 @@ $('html').on('click', function(){
 
 // news line visiblity
 function news_line_visibility(){
-	var block_offset = $('#as-seen-on').offset().top;
-	var scroll_top = $(window).scrollTop();
-	var window_inner_height = window.innerHeight;
-	var news_line_height = $('.ticker').height();
-	if( block_offset + news_line_height <= scroll_top + window_inner_height ){
-		$('.ticker').addClass('show');
+	
+	if( $('#as-seen-on').length ){
+		
+		var block_offset = $('#as-seen-on').offset().top;
+		var scroll_top = $(window).scrollTop();
+		var window_inner_height = window.innerHeight;
+		var news_line_height = $('.ticker').height();
+		if( block_offset + news_line_height <= scroll_top + window_inner_height ){
+			$('.ticker').addClass('show');
+		}
+		else{
+			$('.ticker').removeClass('show');
+		}	
+		
 	}
-	else{
-		$('.ticker').removeClass('show');
-	}
+	
 }
 
 news_line_visibility();
@@ -134,18 +139,25 @@ news_line_visibility();
 $(window).bind('scroll resize', function(){
 	news_line_visibility();
 });
+
 // navbar visiblity
 function navbar_visibility(){
-	var block_offset = $('#intake-form').offset().top;
-	var scroll_top = $(window).scrollTop();
-	var window_inner_height = window.innerHeight;
-	var news_line_height = $('.navbar').height();
-	if( block_offset + news_line_height <= scroll_top + window_inner_height ){
-		$('header').addClass('is-fixed');
+	
+	if( $('#intake-form').length ){
+		
+		var block_offset = $('#intake-form').offset().top;
+		var scroll_top = $(window).scrollTop();
+		var window_inner_height = window.innerHeight;
+		var news_line_height = $('.navbar').height();
+		if( block_offset + news_line_height <= scroll_top + window_inner_height ){
+			$('header').addClass('is-fixed');
+		}
+		else{
+			$('header').removeClass('is-fixed');
+		}
+		
 	}
-	else{
-		$('header').removeClass('is-fixed');
-	}
+	
 }
 
 navbar_visibility();
@@ -209,14 +221,15 @@ function sendForm() {
 				data: formData,
 				async: false
 		});
-		alert('something');
+
 	});
 
 }
 
 sendForm();
 
-}); // end document ready
+
+
 
 //
 // The Automatic Ticker
@@ -280,3 +293,29 @@ if (url.match('#')) {
 $('.nav-tabs a').on('shown.bs.tab', function (e) {
     window.location.hash = e.target.hash;
 });
+
+
+// recent press carousel, main page
+$(".owl-carousel").owlCarousel({
+	autoplay: true,
+	items: 1,
+	loop: true
+});
+$(".recentpress-home").owlCarousel({
+	autoplay: true,
+	items: 3,
+	loop: false,
+	slideSpeed: 400,
+	itemsDesktop: false,
+	itemsMobile: 1,
+	itemsTablet: 2
+});
+
+
+
+
+
+
+
+
+

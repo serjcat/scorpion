@@ -518,28 +518,6 @@
 </div>
 <?php include 'includes/footer.php'; ?>
 
-<!-- Slider -->
-<script type='text/javascript' src='./js/slider/main.min.js'></script>
-<!-- Owl Carousel -->
-<script src="./js/owl.carousel.min.js"></script>
-<script type='text/javascript'>
-//Examples of Funded	
-$(function(){ 
-	$(".owl-carousel").owlCarousel({
-		autoplay: true,
-		items: 1,
-		loop: true
-	});
-	$(".recentpress-home").owlCarousel({
-		autoplay: true,
-		items: 3,
-		loop: false,
-		slideSpeed: 400,
-		itemsDesktop: false,
-		itemsMobile: 1,
-		itemsTablet: 2
-	});
-});
-</script>
+
 </body>
 </html>
